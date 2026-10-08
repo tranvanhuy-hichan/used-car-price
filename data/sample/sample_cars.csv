@@ -1,0 +1,1501 @@
+brand,model,year,gearbox,fuel,province,origin,seats,km,price_million
+Hyundai,Accent,2015,tự động,xăng,Hà Nội,trong nước,5,122900,119.0
+Honda,City,2025,tự động,xăng,Cần Thơ,nhập khẩu,5,14100,666.0
+Toyota,Camry,2012,tự động,xăng,Hải Phòng,nhập khẩu,7,124200,126.0
+Toyota,Camry,2026,tự động,xăng,Cần Thơ,trong nước,7,500,777.0
+VinFast,Lux A,2025,tự động,xăng,Cần Thơ,trong nước,5,13900,470.0
+Ford,Ranger,2017,số sàn,điện,Hải Phòng,trong nước,5,117900,161.0
+Hyundai,Accent,2021,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,58700,349.0
+Kia,Morning,2023,tự động,điện,Hồ Chí Minh,trong nước,5,45700,453.0
+Hyundai,Creta,2024,tự động,xăng,Đà Nẵng,nhập khẩu,7,27800,551.0
+Ford,Ranger,2021,tự động,xăng,Cần Thơ,trong nước,5,84300,253.0
+VinFast,Lux A,2013,tự động,xăng,Hà Nội,trong nước,7,160500,80.0
+Toyota,Camry,2013,tự động,xăng,Hải Phòng,trong nước,5,168900,90.0
+VinFast,VF6,2019,số sàn,điện,Hải Phòng,trong nước,5,118000,226.0
+Toyota,Fortuner,2024,tự động,xăng,Hà Nội,trong nước,7,24200,627.0
+Kia,Seltos,2016,tự động,xăng,Hải Phòng,trong nước,7,138700,137.0
+Toyota,Vios,2014,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,195700,86.0
+VinFast,Lux A,2015,tự động,xăng,Hồ Chí Minh,trong nước,5,174000,80.0
+Hyundai,Accent,2020,số sàn,dầu,Đà Nẵng,trong nước,5,91600,244.0
+Honda,City,2016,tự động,xăng,Hải Phòng,trong nước,5,144400,170.0
+Mazda,CX5,2024,số sàn,xăng,Hà Nội,trong nước,5,22800,496.0
+Toyota,Vios,2012,tự động,xăng,Hải Phòng,nhập khẩu,5,227700,80.0
+Toyota,Fortuner,2012,tự động,xăng,Hải Phòng,trong nước,5,138600,93.0
+Kia,Morning,2022,tự động,điện,Hồ Chí Minh,trong nước,7,46600,502.0
+Hyundai,Creta,2017,tự động,xăng,Hải Phòng,trong nước,7,103000,188.0
+Hyundai,Santafe,2016,số sàn,xăng,Hà Nội,trong nước,5,145200,102.0
+Honda,Civic,2023,số sàn,xăng,Đà Nẵng,trong nước,5,59800,441.0
+Mercedes Benz,E300,2012,tự động,xăng,Hà Nội,nhập khẩu,5,243400,233.0
+Mercedes Benz,GLC,2015,tự động,hybrid,Hà Nội,trong nước,5,191000,431.0
+Kia,Carnival,2015,tự động,dầu,Hà Nội,trong nước,5,165100,80.0
+Hyundai,Santafe,2021,tự động,hybrid,Hồ Chí Minh,trong nước,7,64900,374.0
+Kia,Seltos,2026,tự động,xăng,Đà Nẵng,nhập khẩu,5,4700,639.0
+Honda,CR-V,2019,số sàn,xăng,Cần Thơ,nhập khẩu,5,70900,331.0
+Toyota,Vios,2023,tự động,xăng,Hà Nội,trong nước,5,42200,502.0
+Kia,Carnival,2021,tự động,xăng,Hải Phòng,trong nước,7,98900,285.0
+Hyundai,Accent,2014,số sàn,xăng,Hải Phòng,nhập khẩu,5,175600,80.0
+Honda,Civic,2024,số sàn,xăng,Hà Nội,trong nước,5,31500,561.0
+Mazda,CX5,2023,tự động,xăng,Hà Nội,trong nước,5,43700,494.0
+Ford,Everest,2014,số sàn,xăng,Cần Thơ,nhập khẩu,5,80100,127.0
+Ford,Everest,2016,số sàn,xăng,Hải Phòng,trong nước,7,99500,153.0
+Honda,CR-V,2016,số sàn,xăng,Hải Phòng,trong nước,7,142900,158.0
+Hyundai,Santafe,2018,tự động,xăng,Hồ Chí Minh,trong nước,5,133100,171.0
+Honda,Civic,2023,tự động,hybrid,Hải Phòng,nhập khẩu,7,34100,665.0
+Hyundai,Creta,2012,số sàn,xăng,Hồ Chí Minh,trong nước,7,203000,80.0
+Honda,Civic,2019,số sàn,điện,Đà Nẵng,trong nước,5,35900,342.0
+Mazda,CX8,2025,số sàn,hybrid,Hồ Chí Minh,nhập khẩu,5,14600,583.0
+Ford,Ranger,2026,số sàn,dầu,Cần Thơ,trong nước,5,500,482.0
+Honda,CR-V,2023,tự động,dầu,Cần Thơ,trong nước,5,34300,484.0
+Hyundai,Accent,2014,tự động,xăng,Hồ Chí Minh,trong nước,5,116300,112.0
+Toyota,Camry,2022,số sàn,điện,Đà Nẵng,trong nước,5,88600,397.0
+VinFast,Lux A,2023,tự động,xăng,Cần Thơ,trong nước,7,38800,392.0
+Kia,Carnival,2026,số sàn,xăng,Hà Nội,trong nước,5,500,435.0
+Honda,CR-V,2022,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,42600,448.0
+Ford,Everest,2018,số sàn,xăng,Đà Nẵng,trong nước,5,61800,193.0
+Toyota,Vios,2013,số sàn,xăng,Hải Phòng,trong nước,5,80400,156.0
+Honda,Civic,2013,tự động,xăng,Cần Thơ,trong nước,7,206900,80.0
+Toyota,Vios,2024,số sàn,xăng,Cần Thơ,nhập khẩu,7,13000,680.0
+Mazda,3,2017,số sàn,xăng,Đà Nẵng,trong nước,5,42100,229.0
+VinFast,Lux A,2016,tự động,hybrid,Cần Thơ,trong nước,7,97000,164.0
+Honda,CR-V,2025,tự động,xăng,Đà Nẵng,trong nước,5,15200,601.0
+Toyota,Vios,2026,tự động,xăng,Đà Nẵng,trong nước,5,1200,738.0
+Mazda,CX8,2019,tự động,dầu,Hà Nội,trong nước,7,52000,336.0
+Toyota,Camry,2018,tự động,xăng,Cần Thơ,trong nước,5,78500,252.0
+Toyota,Camry,2024,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,28800,599.0
+Hyundai,Accent,2015,tự động,hybrid,Cần Thơ,trong nước,7,52600,220.0
+Honda,CR-V,2026,số sàn,xăng,Đà Nẵng,trong nước,7,2900,710.0
+Kia,Seltos,2018,tự động,xăng,Hải Phòng,trong nước,5,115300,187.0
+Toyota,Camry,2021,số sàn,xăng,Hải Phòng,trong nước,5,87600,356.0
+Ford,Ranger,2012,tự động,xăng,Hải Phòng,trong nước,5,198200,80.0
+Honda,CR-V,2022,số sàn,xăng,Hải Phòng,trong nước,5,70100,385.0
+Toyota,Vios,2018,tự động,xăng,Hải Phòng,trong nước,5,111600,252.0
+Hyundai,Accent,2026,tự động,xăng,Hồ Chí Minh,trong nước,5,2000,592.0
+Ford,EcoSport,2020,số sàn,xăng,Hồ Chí Minh,trong nước,5,78800,251.0
+Mazda,CX8,2016,số sàn,xăng,Hà Nội,trong nước,5,205100,81.0
+Mercedes Benz,C200,2022,số sàn,xăng,Hải Phòng,trong nước,5,61900,974.0
+Mazda,CX5,2013,tự động,xăng,Hải Phòng,trong nước,7,125900,100.0
+Mazda,CX8,2017,tự động,xăng,Hải Phòng,trong nước,5,117700,158.0
+Hyundai,Accent,2017,số sàn,xăng,Đà Nẵng,nhập khẩu,5,46500,237.0
+Mercedes Benz,C200,2016,tự động,xăng,Hà Nội,trong nước,5,171200,472.0
+Ford,Everest,2013,tự động,xăng,Đà Nẵng,trong nước,7,146800,80.0
+Mazda,CX8,2020,tự động,xăng,Hải Phòng,trong nước,7,105400,278.0
+Kia,Morning,2021,số sàn,dầu,Hà Nội,trong nước,5,108400,277.0
+Mazda,3,2012,tự động,xăng,Đà Nẵng,trong nước,7,170000,80.0
+Hyundai,Accent,2018,số sàn,xăng,Hà Nội,nhập khẩu,5,94900,224.0
+Kia,Morning,2016,tự động,xăng,Đà Nẵng,trong nước,7,114700,162.0
+Mazda,3,2019,tự động,xăng,Hà Nội,trong nước,5,98000,249.0
+Kia,Carnival,2017,tự động,điện,Cần Thơ,trong nước,7,188500,126.0
+Kia,Seltos,2025,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,20900,504.0
+Ford,Ranger,2022,số sàn,xăng,Hải Phòng,trong nước,5,51200,301.0
+Toyota,Vios,2015,tự động,xăng,Hải Phòng,nhập khẩu,7,181300,130.0
+Kia,Carnival,2012,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,58400,143.0
+Ford,EcoSport,2020,tự động,xăng,Đà Nẵng,trong nước,5,79000,246.0
+Mercedes Benz,C200,2023,tự động,xăng,Đà Nẵng,nhập khẩu,7,3300,1304.0
+Toyota,Fortuner,2021,tự động,xăng,Cần Thơ,trong nước,7,86800,429.0
+VinFast,VF8,2019,số sàn,dầu,Hồ Chí Minh,trong nước,5,26000,256.0
+Mercedes Benz,GLC,2018,số sàn,hybrid,Hà Nội,trong nước,5,115300,657.0
+Mercedes Benz,GLC,2020,tự động,xăng,Đà Nẵng,trong nước,5,55600,786.0
+Toyota,Camry,2025,số sàn,xăng,Đà Nẵng,trong nước,5,26000,531.0
+Mercedes Benz,C200,2019,tự động,điện,Hồ Chí Minh,trong nước,5,47700,887.0
+Ford,EcoSport,2018,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,87200,205.0
+VinFast,VF8,2021,tự động,xăng,Hà Nội,trong nước,5,99900,248.0
+Mazda,CX5,2013,tự động,xăng,Hà Nội,trong nước,5,181800,80.0
+Honda,Civic,2016,tự động,điện,Cần Thơ,nhập khẩu,7,135300,246.0
+VinFast,VF8,2026,số sàn,dầu,Hải Phòng,trong nước,7,4500,553.0
+Ford,Everest,2014,tự động,dầu,Hải Phòng,trong nước,7,153400,80.0
+Honda,Civic,2014,tự động,xăng,Đà Nẵng,trong nước,5,107700,137.0
+Hyundai,Creta,2024,số sàn,xăng,Cần Thơ,nhập khẩu,7,24700,521.0
+Mazda,3,2014,tự động,xăng,Hà Nội,trong nước,7,147900,95.0
+Ford,Ranger,2026,tự động,xăng,Hồ Chí Minh,trong nước,7,5700,594.0
+Toyota,Vios,2015,tự động,xăng,Hà Nội,trong nước,5,139000,154.0
+Kia,Carnival,2020,tự động,xăng,Hà Nội,trong nước,7,94000,274.0
+Hyundai,Creta,2013,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,79900,122.0
+Toyota,Vios,2012,số sàn,xăng,Hà Nội,trong nước,5,249500,80.0
+Kia,Morning,2024,số sàn,xăng,Hà Nội,trong nước,5,30400,434.0
+Toyota,Fortuner,2016,số sàn,xăng,Hải Phòng,nhập khẩu,7,186600,149.0
+Kia,Carnival,2022,tự động,dầu,Hải Phòng,trong nước,5,57600,387.0
+Hyundai,Accent,2017,tự động,xăng,Hà Nội,nhập khẩu,5,108500,192.0
+Ford,EcoSport,2021,tự động,xăng,Hà Nội,trong nước,5,68400,260.0
+Toyota,Vios,2020,số sàn,xăng,Đà Nẵng,trong nước,7,48100,361.0
+VinFast,Lux A,2015,tự động,xăng,Cần Thơ,nhập khẩu,5,125300,119.0
+Toyota,Fortuner,2015,tự động,xăng,Hải Phòng,nhập khẩu,5,145900,154.0
+Honda,City,2020,số sàn,hybrid,Hồ Chí Minh,nhập khẩu,5,75800,375.0
+Mazda,CX8,2026,tự động,dầu,Hồ Chí Minh,nhập khẩu,5,2700,665.0
+Mercedes Benz,GLC,2016,tự động,xăng,Hà Nội,nhập khẩu,5,141800,564.0
+Hyundai,Creta,2017,tự động,hybrid,Hải Phòng,trong nước,5,73800,214.0
+Honda,CR-V,2018,tự động,xăng,Cần Thơ,trong nước,5,90200,261.0
+Honda,City,2014,số sàn,xăng,Hồ Chí Minh,trong nước,5,189900,80.0
+Ford,EcoSport,2012,số sàn,xăng,Cần Thơ,nhập khẩu,7,132600,80.0
+Honda,City,2021,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,60000,484.0
+Toyota,Camry,2017,tự động,xăng,Hồ Chí Minh,trong nước,5,98200,242.0
+Honda,City,2020,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,85000,362.0
+Hyundai,Santafe,2014,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,91300,150.0
+Hyundai,Santafe,2022,tự động,xăng,Hải Phòng,nhập khẩu,7,24300,485.0
+VinFast,VF6,2023,tự động,xăng,Đà Nẵng,trong nước,5,17500,397.0
+Hyundai,Creta,2020,số sàn,xăng,Hà Nội,trong nước,5,126900,203.0
+Honda,City,2016,số sàn,xăng,Hồ Chí Minh,trong nước,5,150700,126.0
+Mazda,CX8,2017,tự động,xăng,Cần Thơ,nhập khẩu,7,168500,152.0
+VinFast,Lux A,2023,tự động,xăng,Hà Nội,nhập khẩu,5,36700,393.0
+Hyundai,Santafe,2026,số sàn,hybrid,Hải Phòng,trong nước,7,4100,655.0
+Mercedes Benz,E300,2017,tự động,xăng,Đà Nẵng,trong nước,7,95900,575.0
+Honda,Civic,2026,tự động,điện,Hà Nội,trong nước,7,3300,800.0
+Hyundai,Santafe,2023,số sàn,xăng,Hải Phòng,trong nước,5,50900,384.0
+Hyundai,Santafe,2019,số sàn,xăng,Hải Phòng,trong nước,5,79800,223.0
+VinFast,Lux A,2014,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,160700,80.0
+Toyota,Fortuner,2024,tự động,xăng,Đà Nẵng,trong nước,5,27500,582.0
+Mazda,CX5,2021,tự động,xăng,Cần Thơ,trong nước,7,77300,358.0
+Ford,Everest,2023,số sàn,xăng,Hồ Chí Minh,trong nước,7,38600,368.0
+Toyota,Camry,2014,số sàn,điện,Đà Nẵng,trong nước,7,37500,233.0
+VinFast,VF8,2020,tự động,xăng,Hà Nội,trong nước,5,45900,246.0
+Mazda,CX5,2023,tự động,xăng,Hải Phòng,trong nước,5,45900,411.0
+VinFast,VF8,2018,số sàn,xăng,Đà Nẵng,trong nước,5,159200,130.0
+Toyota,Vios,2025,tự động,xăng,Đà Nẵng,trong nước,5,13900,569.0
+Honda,City,2015,số sàn,hybrid,Cần Thơ,trong nước,5,199700,86.0
+Toyota,Vios,2015,tự động,hybrid,Hà Nội,nhập khẩu,5,30200,296.0
+Hyundai,Accent,2023,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,55800,442.0
+Honda,Civic,2024,tự động,xăng,Đà Nẵng,trong nước,5,18500,556.0
+Kia,Seltos,2013,tự động,xăng,Hồ Chí Minh,trong nước,5,106100,96.0
+Ford,Ranger,2021,tự động,xăng,Hải Phòng,trong nước,5,54900,275.0
+Toyota,Camry,2014,tự động,xăng,Hải Phòng,nhập khẩu,5,162200,133.0
+VinFast,VF8,2018,tự động,xăng,Đà Nẵng,nhập khẩu,5,59800,266.0
+Toyota,Vios,2018,số sàn,xăng,Đà Nẵng,trong nước,5,131000,241.0
+Honda,CR-V,2012,số sàn,hybrid,Đà Nẵng,trong nước,7,92600,137.0
+Mazda,3,2025,tự động,xăng,Đà Nẵng,trong nước,5,16100,563.0
+Mazda,3,2019,tự động,xăng,Hải Phòng,trong nước,5,65000,250.0
+Mercedes Benz,GLC,2020,tự động,xăng,Hồ Chí Minh,trong nước,5,81200,744.0
+Kia,Seltos,2026,số sàn,xăng,Hải Phòng,trong nước,5,1700,472.0
+Honda,Civic,2026,tự động,xăng,Hải Phòng,trong nước,5,1500,681.0
+Honda,Civic,2017,tự động,xăng,Cần Thơ,trong nước,7,66200,264.0
+VinFast,VF8,2012,số sàn,xăng,Cần Thơ,nhập khẩu,5,219900,80.0
+Ford,Ranger,2014,số sàn,hybrid,Hồ Chí Minh,nhập khẩu,7,40400,197.0
+Hyundai,Santafe,2024,số sàn,dầu,Đà Nẵng,nhập khẩu,5,43900,459.0
+Honda,Civic,2019,số sàn,xăng,Đà Nẵng,trong nước,7,72200,324.0
+Mercedes Benz,E300,2013,số sàn,xăng,Hồ Chí Minh,trong nước,5,168600,292.0
+Honda,CR-V,2025,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,8600,741.0
+Toyota,Fortuner,2019,số sàn,điện,Cần Thơ,trong nước,5,66500,339.0
+Ford,Ranger,2016,số sàn,xăng,Cần Thơ,nhập khẩu,5,157700,85.0
+VinFast,VF6,2022,tự động,xăng,Hải Phòng,trong nước,5,77000,307.0
+Kia,Carnival,2013,số sàn,xăng,Hà Nội,trong nước,5,107800,89.0
+Mercedes Benz,C200,2025,tự động,xăng,Hải Phòng,trong nước,5,22700,1338.0
+Ford,Everest,2026,tự động,xăng,Đà Nẵng,trong nước,7,4900,619.0
+Kia,Morning,2018,số sàn,xăng,Cần Thơ,trong nước,5,114900,159.0
+VinFast,Lux A,2022,tự động,xăng,Đà Nẵng,nhập khẩu,5,49100,382.0
+Honda,CR-V,2021,tự động,dầu,Cần Thơ,nhập khẩu,5,94100,383.0
+Toyota,Fortuner,2024,số sàn,xăng,Cần Thơ,nhập khẩu,5,10300,639.0
+Kia,Carnival,2025,tự động,xăng,Cần Thơ,trong nước,7,19900,567.0
+Kia,Seltos,2023,tự động,xăng,Đà Nẵng,trong nước,5,57400,372.0
+Toyota,Vios,2025,số sàn,xăng,Hà Nội,nhập khẩu,5,17000,664.0
+Mazda,3,2021,tự động,xăng,Hồ Chí Minh,trong nước,7,53100,375.0
+Ford,EcoSport,2019,tự động,xăng,Hải Phòng,trong nước,5,101500,183.0
+Hyundai,Creta,2024,tự động,xăng,Cần Thơ,nhập khẩu,5,29100,521.0
+Hyundai,Santafe,2024,tự động,xăng,Cần Thơ,trong nước,7,26100,471.0
+Toyota,Camry,2024,tự động,xăng,Cần Thơ,nhập khẩu,5,36100,673.0
+Hyundai,Creta,2022,tự động,xăng,Hồ Chí Minh,trong nước,5,72400,371.0
+Hyundai,Accent,2018,số sàn,xăng,Đà Nẵng,trong nước,7,53900,250.0
+Toyota,Camry,2012,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,274500,80.0
+Mercedes Benz,E300,2015,tự động,dầu,Cần Thơ,nhập khẩu,5,138400,510.0
+Hyundai,Santafe,2016,tự động,xăng,Đà Nẵng,nhập khẩu,5,112800,168.0
+Toyota,Camry,2020,số sàn,xăng,Hồ Chí Minh,trong nước,7,96200,324.0
+Kia,Carnival,2016,tự động,xăng,Hà Nội,trong nước,7,92300,171.0
+Mercedes Benz,C200,2013,tự động,xăng,Cần Thơ,trong nước,7,183300,337.0
+Hyundai,Accent,2012,số sàn,xăng,Hải Phòng,trong nước,7,154000,80.0
+Honda,Civic,2026,số sàn,xăng,Hải Phòng,trong nước,5,6600,637.0
+Toyota,Camry,2024,số sàn,xăng,Hồ Chí Minh,nhập khẩu,7,29500,627.0
+Kia,Carnival,2021,tự động,xăng,Hà Nội,nhập khẩu,5,63000,362.0
+Toyota,Fortuner,2013,tự động,xăng,Hà Nội,trong nước,7,141200,126.0
+Hyundai,Creta,2016,tự động,xăng,Hải Phòng,nhập khẩu,5,166900,106.0
+Hyundai,Creta,2025,tự động,xăng,Đà Nẵng,trong nước,5,19700,539.0
+Mercedes Benz,E300,2017,số sàn,xăng,Cần Thơ,nhập khẩu,5,129600,531.0
+Toyota,Camry,2016,tự động,dầu,Hà Nội,trong nước,7,159800,182.0
+Mazda,3,2018,số sàn,dầu,Hà Nội,nhập khẩu,7,32200,297.0
+Kia,Carnival,2022,số sàn,xăng,Hà Nội,nhập khẩu,7,67300,391.0
+Toyota,Fortuner,2017,số sàn,dầu,Hà Nội,trong nước,5,193600,141.0
+Honda,Civic,2014,số sàn,xăng,Hà Nội,trong nước,7,98800,148.0
+Toyota,Camry,2013,số sàn,xăng,Hồ Chí Minh,trong nước,7,288700,80.0
+Kia,Seltos,2013,tự động,điện,Hải Phòng,nhập khẩu,5,68400,155.0
+Toyota,Camry,2018,tự động,dầu,Đà Nẵng,trong nước,5,74400,314.0
+Mazda,3,2019,tự động,xăng,Cần Thơ,trong nước,5,107300,220.0
+Ford,Everest,2026,tự động,điện,Đà Nẵng,trong nước,5,3500,571.0
+Mazda,CX8,2021,số sàn,xăng,Hà Nội,trong nước,7,46900,348.0
+Ford,Ranger,2026,tự động,điện,Hải Phòng,nhập khẩu,5,2500,666.0
+Kia,Carnival,2021,tự động,xăng,Cần Thơ,nhập khẩu,5,70400,297.0
+Ford,Everest,2012,tự động,xăng,Cần Thơ,trong nước,5,218900,80.0
+Toyota,Fortuner,2012,tự động,xăng,Hải Phòng,nhập khẩu,7,155200,100.0
+Toyota,Fortuner,2012,số sàn,dầu,Hải Phòng,nhập khẩu,5,57100,169.0
+Toyota,Fortuner,2014,tự động,hybrid,Đà Nẵng,trong nước,7,172600,119.0
+VinFast,VF8,2024,tự động,xăng,Hà Nội,nhập khẩu,5,36800,479.0
+Hyundai,Creta,2013,số sàn,xăng,Cần Thơ,nhập khẩu,7,131300,83.0
+Mazda,CX5,2017,tự động,dầu,Hồ Chí Minh,trong nước,5,138600,167.0
+Toyota,Fortuner,2016,tự động,xăng,Cần Thơ,trong nước,5,68100,225.0
+Kia,Carnival,2015,tự động,xăng,Đà Nẵng,nhập khẩu,5,107100,136.0
+Honda,Civic,2026,tự động,dầu,Cần Thơ,trong nước,5,6200,685.0
+Kia,Carnival,2014,tự động,xăng,Hà Nội,trong nước,7,154100,80.0
+Mazda,3,2020,tự động,xăng,Hà Nội,trong nước,5,48400,299.0
+Mazda,3,2015,tự động,xăng,Hải Phòng,nhập khẩu,5,207800,80.0
+Kia,Morning,2013,tự động,xăng,Hải Phòng,trong nước,7,182300,80.0
+Toyota,Camry,2022,số sàn,dầu,Hồ Chí Minh,trong nước,5,51000,423.0
+Hyundai,Creta,2025,tự động,xăng,Hồ Chí Minh,trong nước,7,17000,587.0
+Toyota,Fortuner,2012,tự động,xăng,Cần Thơ,trong nước,5,241100,80.0
+VinFast,Lux A,2021,số sàn,xăng,Đà Nẵng,trong nước,7,72600,321.0
+Mazda,3,2013,tự động,xăng,Hải Phòng,nhập khẩu,7,115000,114.0
+Mercedes Benz,E300,2013,tự động,dầu,Hà Nội,trong nước,7,162000,337.0
+Toyota,Fortuner,2022,tự động,xăng,Cần Thơ,trong nước,7,40700,455.0
+Mercedes Benz,C200,2022,số sàn,xăng,Hồ Chí Minh,trong nước,5,62400,933.0
+VinFast,VF8,2017,tự động,xăng,Cần Thơ,trong nước,5,99000,172.0
+Mazda,3,2015,tự động,xăng,Hải Phòng,trong nước,7,138000,133.0
+VinFast,VF6,2026,tự động,xăng,Hồ Chí Minh,trong nước,7,3900,574.0
+Hyundai,Creta,2022,tự động,xăng,Hải Phòng,trong nước,7,38000,379.0
+Hyundai,Santafe,2022,số sàn,xăng,Hà Nội,trong nước,5,50100,385.0
+Ford,Ranger,2020,tự động,xăng,Đà Nẵng,trong nước,5,70100,256.0
+Toyota,Camry,2023,tự động,xăng,Hà Nội,nhập khẩu,7,30800,605.0
+VinFast,VF8,2024,số sàn,xăng,Hải Phòng,trong nước,5,46300,409.0
+Honda,CR-V,2012,tự động,dầu,Hà Nội,trong nước,5,234000,80.0
+Honda,City,2013,số sàn,xăng,Đà Nẵng,trong nước,5,124100,104.0
+Mercedes Benz,E300,2020,tự động,xăng,Cần Thơ,nhập khẩu,7,61900,882.0
+Kia,Seltos,2012,tự động,xăng,Hải Phòng,nhập khẩu,5,186600,80.0
+Mazda,CX5,2021,số sàn,xăng,Hồ Chí Minh,trong nước,5,89300,318.0
+Mazda,3,2017,tự động,dầu,Hồ Chí Minh,trong nước,7,108200,218.0
+Ford,Ranger,2015,tự động,xăng,Cần Thơ,trong nước,7,171300,80.0
+Toyota,Camry,2013,tự động,xăng,Hồ Chí Minh,trong nước,5,65000,179.0
+Kia,Morning,2015,tự động,xăng,Cần Thơ,nhập khẩu,5,151600,98.0
+Kia,Seltos,2021,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,88300,323.0
+VinFast,VF8,2024,tự động,xăng,Hà Nội,trong nước,7,29400,510.0
+Honda,Civic,2012,tự động,xăng,Hồ Chí Minh,trong nước,5,136400,91.0
+VinFast,VF6,2025,tự động,điện,Cần Thơ,trong nước,5,18900,551.0
+Honda,City,2014,tự động,hybrid,Cần Thơ,trong nước,5,101000,171.0
+Honda,City,2021,tự động,xăng,Hải Phòng,trong nước,5,55700,368.0
+Mazda,CX8,2016,tự động,xăng,Đà Nẵng,trong nước,5,147600,117.0
+Hyundai,Accent,2024,số sàn,xăng,Hà Nội,trong nước,7,22000,504.0
+Toyota,Fortuner,2025,tự động,xăng,Đà Nẵng,trong nước,5,25000,669.0
+Mazda,CX8,2024,tự động,điện,Đà Nẵng,trong nước,5,25300,546.0
+Toyota,Vios,2013,số sàn,xăng,Hồ Chí Minh,trong nước,5,51700,170.0
+Kia,Carnival,2023,số sàn,hybrid,Hồ Chí Minh,nhập khẩu,7,51900,492.0
+VinFast,VF6,2014,số sàn,xăng,Hải Phòng,nhập khẩu,5,165400,80.0
+Toyota,Vios,2022,tự động,hybrid,Hà Nội,trong nước,5,49500,474.0
+Kia,Morning,2021,tự động,xăng,Cần Thơ,nhập khẩu,5,75800,309.0
+VinFast,VF6,2016,tự động,điện,Cần Thơ,trong nước,5,150000,119.0
+Mercedes Benz,E300,2019,số sàn,dầu,Hồ Chí Minh,trong nước,5,84300,642.0
+VinFast,VF6,2018,số sàn,xăng,Hà Nội,trong nước,5,123100,152.0
+Mazda,3,2025,tự động,xăng,Hà Nội,trong nước,5,19100,539.0
+Mercedes Benz,E300,2021,số sàn,xăng,Đà Nẵng,trong nước,7,84700,745.0
+Mercedes Benz,C200,2022,tự động,xăng,Hà Nội,nhập khẩu,5,41400,907.0
+Mazda,3,2018,số sàn,xăng,Cần Thơ,trong nước,5,85500,226.0
+Kia,Seltos,2021,tự động,xăng,Đà Nẵng,trong nước,5,75800,309.0
+Ford,Everest,2025,tự động,xăng,Hà Nội,nhập khẩu,5,16400,561.0
+Mazda,3,2021,tự động,xăng,Hải Phòng,trong nước,5,66600,383.0
+VinFast,VF6,2021,tự động,điện,Hải Phòng,nhập khẩu,7,61300,428.0
+Kia,Morning,2015,tự động,xăng,Hà Nội,trong nước,7,177700,80.0
+Honda,Civic,2019,số sàn,xăng,Hà Nội,trong nước,7,60400,327.0
+Kia,Carnival,2013,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,94700,128.0
+Hyundai,Creta,2022,tự động,xăng,Đà Nẵng,trong nước,5,66400,388.0
+Toyota,Vios,2020,tự động,xăng,Hải Phòng,trong nước,7,84200,399.0
+Mazda,3,2013,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,122900,105.0
+Toyota,Vios,2024,tự động,xăng,Hải Phòng,trong nước,7,25700,622.0
+Mazda,CX5,2021,tự động,xăng,Đà Nẵng,trong nước,7,47000,393.0
+Mazda,CX8,2013,tự động,xăng,Hồ Chí Minh,trong nước,5,133300,88.0
+Mazda,3,2015,tự động,xăng,Hà Nội,trong nước,5,194600,80.0
+Hyundai,Santafe,2024,tự động,dầu,Cần Thơ,trong nước,5,27500,483.0
+Toyota,Camry,2025,tự động,xăng,Hồ Chí Minh,trong nước,5,9800,659.0
+Ford,Everest,2017,số sàn,điện,Cần Thơ,nhập khẩu,7,130400,169.0
+Kia,Seltos,2013,tự động,hybrid,Hồ Chí Minh,nhập khẩu,5,188500,80.0
+VinFast,Lux A,2019,tự động,xăng,Hải Phòng,nhập khẩu,5,85000,247.0
+Ford,Everest,2019,số sàn,xăng,Cần Thơ,trong nước,5,85000,195.0
+Hyundai,Accent,2021,tự động,dầu,Đà Nẵng,trong nước,5,70500,325.0
+Toyota,Camry,2017,tự động,xăng,Đà Nẵng,nhập khẩu,7,140500,260.0
+Kia,Seltos,2024,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,25000,547.0
+Hyundai,Accent,2015,tự động,xăng,Hà Nội,trong nước,7,112000,152.0
+VinFast,VF6,2017,tự động,xăng,Hà Nội,trong nước,7,103900,185.0
+Hyundai,Santafe,2025,tự động,xăng,Hà Nội,nhập khẩu,7,21500,675.0
+VinFast,VF8,2013,tự động,xăng,Hải Phòng,trong nước,7,200100,80.0
+Mercedes Benz,E300,2014,tự động,dầu,Đà Nẵng,trong nước,5,125000,392.0
+Honda,City,2023,tự động,dầu,Hồ Chí Minh,trong nước,7,77800,451.0
+Toyota,Fortuner,2019,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,159800,287.0
+Mazda,CX8,2012,số sàn,xăng,Hải Phòng,trong nước,5,112100,88.0
+Kia,Carnival,2022,số sàn,xăng,Cần Thơ,trong nước,5,66200,303.0
+Mazda,3,2019,số sàn,xăng,Đà Nẵng,nhập khẩu,5,57000,262.0
+Hyundai,Accent,2022,tự động,hybrid,Đà Nẵng,trong nước,5,54800,419.0
+Toyota,Fortuner,2016,tự động,xăng,Cần Thơ,trong nước,5,184700,126.0
+Kia,Carnival,2018,tự động,xăng,Cần Thơ,trong nước,5,124500,190.0
+Honda,CR-V,2019,tự động,dầu,Hải Phòng,trong nước,5,55300,332.0
+Toyota,Vios,2019,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,102100,303.0
+VinFast,Lux A,2024,tự động,xăng,Đà Nẵng,trong nước,5,8500,433.0
+Hyundai,Accent,2013,tự động,dầu,Đà Nẵng,trong nước,5,76300,129.0
+Mazda,CX8,2025,số sàn,dầu,Cần Thơ,nhập khẩu,5,16600,552.0
+Ford,EcoSport,2022,tự động,xăng,Đà Nẵng,nhập khẩu,7,39900,470.0
+Toyota,Vios,2026,tự động,xăng,Đà Nẵng,trong nước,5,2800,772.0
+Kia,Seltos,2023,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,41300,426.0
+Honda,City,2026,tự động,xăng,Đà Nẵng,nhập khẩu,5,2300,690.0
+Toyota,Camry,2018,số sàn,dầu,Hải Phòng,nhập khẩu,5,103300,263.0
+Kia,Carnival,2020,số sàn,dầu,Đà Nẵng,trong nước,5,81800,266.0
+Honda,Civic,2022,tự động,điện,Cần Thơ,nhập khẩu,7,54500,610.0
+Honda,Civic,2021,tự động,xăng,Đà Nẵng,trong nước,5,101600,360.0
+Ford,EcoSport,2019,số sàn,xăng,Cần Thơ,trong nước,7,132200,183.0
+Toyota,Vios,2016,tự động,xăng,Đà Nẵng,nhập khẩu,5,76100,255.0
+Hyundai,Creta,2021,tự động,xăng,Cần Thơ,trong nước,5,57300,331.0
+Toyota,Fortuner,2020,số sàn,xăng,Cần Thơ,trong nước,5,118100,323.0
+Toyota,Camry,2023,tự động,xăng,Hà Nội,nhập khẩu,5,24100,637.0
+Ford,Ranger,2019,số sàn,dầu,Hà Nội,nhập khẩu,5,135000,158.0
+Kia,Seltos,2018,số sàn,xăng,Hà Nội,trong nước,5,120800,154.0
+Hyundai,Santafe,2024,tự động,xăng,Hà Nội,trong nước,5,19300,442.0
+Honda,CR-V,2022,tự động,xăng,Hà Nội,trong nước,7,12100,504.0
+Hyundai,Santafe,2016,số sàn,xăng,Đà Nẵng,trong nước,7,126300,137.0
+Toyota,Vios,2025,tự động,xăng,Hồ Chí Minh,trong nước,5,22800,692.0
+Kia,Seltos,2022,tự động,hybrid,Cần Thơ,trong nước,5,56100,422.0
+Kia,Carnival,2021,số sàn,dầu,Hà Nội,trong nước,5,71600,299.0
+Hyundai,Santafe,2015,tự động,điện,Đà Nẵng,nhập khẩu,5,155500,116.0
+Hyundai,Creta,2019,số sàn,xăng,Hải Phòng,trong nước,5,81000,246.0
+Toyota,Camry,2016,tự động,xăng,Đà Nẵng,trong nước,5,135700,170.0
+Honda,City,2015,tự động,xăng,Cần Thơ,trong nước,5,110400,173.0
+Hyundai,Accent,2017,số sàn,xăng,Đà Nẵng,trong nước,7,91100,192.0
+Mazda,CX8,2024,số sàn,xăng,Hồ Chí Minh,trong nước,7,18700,553.0
+Mercedes Benz,GLC,2026,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,5700,1711.0
+Ford,Ranger,2019,số sàn,xăng,Cần Thơ,trong nước,7,78900,208.0
+Toyota,Camry,2014,số sàn,xăng,Hải Phòng,trong nước,7,155200,120.0
+Hyundai,Santafe,2025,tự động,xăng,Đà Nẵng,trong nước,7,11800,548.0
+Kia,Morning,2017,số sàn,xăng,Hải Phòng,trong nước,5,52900,203.0
+Toyota,Vios,2016,tự động,xăng,Hải Phòng,trong nước,5,84200,230.0
+Honda,Civic,2017,tự động,xăng,Hải Phòng,nhập khẩu,5,101900,251.0
+Kia,Carnival,2020,tự động,điện,Hồ Chí Minh,nhập khẩu,5,87000,307.0
+Ford,Ranger,2014,tự động,xăng,Đà Nẵng,nhập khẩu,7,130900,93.0
+Honda,City,2016,số sàn,xăng,Đà Nẵng,trong nước,5,140200,163.0
+Honda,City,2023,tự động,xăng,Hà Nội,trong nước,5,18000,571.0
+VinFast,Lux A,2022,tự động,xăng,Hà Nội,nhập khẩu,5,71300,362.0
+Hyundai,Creta,2018,số sàn,xăng,Hồ Chí Minh,trong nước,5,85300,210.0
+Mazda,3,2016,tự động,xăng,Đà Nẵng,trong nước,5,91300,163.0
+Honda,Civic,2012,số sàn,xăng,Hồ Chí Minh,trong nước,5,172700,80.0
+Toyota,Camry,2017,tự động,xăng,Hồ Chí Minh,trong nước,5,131400,225.0
+Toyota,Camry,2014,tự động,xăng,Hải Phòng,trong nước,7,136300,130.0
+Hyundai,Accent,2022,tự động,xăng,Hồ Chí Minh,trong nước,5,65200,368.0
+Toyota,Vios,2013,tự động,xăng,Hà Nội,trong nước,5,68400,187.0
+Mercedes Benz,GLC,2013,số sàn,điện,Hồ Chí Minh,trong nước,5,156500,340.0
+Toyota,Fortuner,2019,tự động,xăng,Cần Thơ,trong nước,7,110200,307.0
+Mazda,CX8,2020,tự động,xăng,Hồ Chí Minh,trong nước,5,87600,284.0
+Mazda,3,2025,tự động,hybrid,Hải Phòng,trong nước,5,14000,598.0
+Honda,City,2019,tự động,xăng,Hà Nội,trong nước,5,95700,261.0
+Kia,Morning,2017,tự động,xăng,Hồ Chí Minh,trong nước,5,171800,122.0
+Hyundai,Santafe,2012,tự động,xăng,Đà Nẵng,trong nước,5,108000,88.0
+Kia,Seltos,2014,tự động,xăng,Hải Phòng,nhập khẩu,5,164000,80.0
+Toyota,Camry,2020,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,81700,402.0
+Honda,CR-V,2022,số sàn,xăng,Hải Phòng,trong nước,7,61900,478.0
+Hyundai,Creta,2017,tự động,dầu,Cần Thơ,nhập khẩu,5,73800,232.0
+Mazda,3,2020,số sàn,xăng,Cần Thơ,trong nước,5,113800,260.0
+Toyota,Vios,2022,tự động,điện,Đà Nẵng,trong nước,5,63400,552.0
+Toyota,Fortuner,2022,tự động,xăng,Hà Nội,nhập khẩu,5,88000,483.0
+Ford,Everest,2019,tự động,xăng,Đà Nẵng,trong nước,5,90300,223.0
+Toyota,Vios,2024,tự động,xăng,Đà Nẵng,trong nước,5,23700,590.0
+VinFast,Lux A,2022,tự động,điện,Hải Phòng,trong nước,5,22700,437.0
+VinFast,VF6,2014,tự động,xăng,Đà Nẵng,nhập khẩu,5,124400,89.0
+Mazda,CX8,2012,tự động,xăng,Cần Thơ,nhập khẩu,7,101200,110.0
+Mazda,CX8,2016,tự động,xăng,Hồ Chí Minh,trong nước,5,42800,244.0
+VinFast,VF6,2026,số sàn,xăng,Hà Nội,trong nước,5,1000,575.0
+Kia,Seltos,2018,tự động,hybrid,Đà Nẵng,trong nước,5,90400,217.0
+VinFast,VF6,2021,tự động,điện,Hồ Chí Minh,trong nước,5,59700,358.0
+Kia,Seltos,2014,số sàn,xăng,Hồ Chí Minh,trong nước,5,270200,80.0
+Kia,Carnival,2020,tự động,xăng,Hải Phòng,nhập khẩu,5,113300,254.0
+Ford,EcoSport,2023,tự động,xăng,Hà Nội,nhập khẩu,7,41700,428.0
+VinFast,VF8,2014,số sàn,xăng,Đà Nẵng,trong nước,7,180300,80.0
+Toyota,Camry,2016,tự động,điện,Cần Thơ,trong nước,5,110500,212.0
+Kia,Seltos,2024,tự động,xăng,Cần Thơ,nhập khẩu,5,22900,451.0
+Toyota,Fortuner,2012,số sàn,xăng,Hà Nội,trong nước,5,199400,80.0
+Mazda,3,2023,tự động,điện,Đà Nẵng,trong nước,5,37400,530.0
+Mazda,3,2014,số sàn,xăng,Hồ Chí Minh,trong nước,7,222400,80.0
+Toyota,Vios,2021,tự động,xăng,Hồ Chí Minh,trong nước,5,79200,390.0
+Ford,Everest,2016,tự động,dầu,Cần Thơ,trong nước,7,82100,135.0
+Toyota,Vios,2020,số sàn,xăng,Cần Thơ,trong nước,5,40700,339.0
+Toyota,Vios,2014,tự động,dầu,Hồ Chí Minh,nhập khẩu,5,158500,124.0
+Honda,Civic,2019,số sàn,xăng,Cần Thơ,trong nước,5,120900,262.0
+Mercedes Benz,C200,2021,tự động,dầu,Hồ Chí Minh,nhập khẩu,5,41700,874.0
+Honda,Civic,2019,tự động,dầu,Cần Thơ,trong nước,7,55300,366.0
+VinFast,VF8,2021,tự động,xăng,Hải Phòng,trong nước,5,112100,270.0
+Toyota,Fortuner,2016,tự động,xăng,Hải Phòng,trong nước,5,122900,207.0
+Hyundai,Creta,2026,tự động,xăng,Hà Nội,nhập khẩu,5,1500,583.0
+Mercedes Benz,GLC,2021,tự động,xăng,Hà Nội,trong nước,5,111600,827.0
+Kia,Seltos,2016,tự động,xăng,Cần Thơ,nhập khẩu,7,112200,181.0
+Mercedes Benz,E300,2023,tự động,xăng,Hồ Chí Minh,trong nước,7,24900,1186.0
+Hyundai,Accent,2014,số sàn,xăng,Hà Nội,nhập khẩu,7,150500,84.0
+Mercedes Benz,GLC,2026,tự động,xăng,Hải Phòng,trong nước,5,2400,1438.0
+VinFast,VF8,2020,số sàn,xăng,Hồ Chí Minh,nhập khẩu,7,36900,332.0
+Kia,Morning,2026,tự động,dầu,Hải Phòng,trong nước,5,2400,552.0
+Ford,Ranger,2013,tự động,xăng,Hồ Chí Minh,trong nước,5,128600,80.0
+Hyundai,Accent,2026,tự động,điện,Hồ Chí Minh,nhập khẩu,7,900,729.0
+Honda,CR-V,2014,tự động,dầu,Hà Nội,trong nước,5,95700,162.0
+Hyundai,Creta,2026,tự động,xăng,Hồ Chí Minh,trong nước,5,4000,555.0
+Honda,Civic,2015,số sàn,dầu,Hải Phòng,nhập khẩu,5,80800,173.0
+Kia,Seltos,2014,số sàn,xăng,Hải Phòng,trong nước,7,100400,123.0
+Toyota,Fortuner,2021,số sàn,xăng,Đà Nẵng,trong nước,5,101500,332.0
+Hyundai,Creta,2015,tự động,xăng,Đà Nẵng,nhập khẩu,7,167200,103.0
+Hyundai,Santafe,2015,tự động,xăng,Đà Nẵng,trong nước,5,166400,85.0
+Kia,Carnival,2023,tự động,xăng,Cần Thơ,trong nước,7,36400,434.0
+Kia,Morning,2017,số sàn,xăng,Hà Nội,nhập khẩu,5,100700,168.0
+Toyota,Vios,2014,số sàn,xăng,Hà Nội,trong nước,5,147200,109.0
+Hyundai,Creta,2012,tự động,xăng,Hồ Chí Minh,trong nước,7,145200,80.0
+Mazda,CX5,2024,tự động,xăng,Hải Phòng,trong nước,7,31300,543.0
+Hyundai,Santafe,2024,tự động,xăng,Hồ Chí Minh,trong nước,5,24200,461.0
+Kia,Carnival,2019,tự động,xăng,Hải Phòng,nhập khẩu,7,91900,315.0
+Hyundai,Creta,2015,tự động,xăng,Hà Nội,trong nước,5,250200,80.0
+Kia,Morning,2025,tự động,xăng,Hà Nội,trong nước,5,15400,455.0
+Hyundai,Accent,2020,số sàn,xăng,Cần Thơ,trong nước,5,50900,300.0
+Mazda,CX5,2012,tự động,hybrid,Hải Phòng,trong nước,5,259000,80.0
+Honda,CR-V,2023,tự động,xăng,Hồ Chí Minh,trong nước,5,25900,542.0
+Honda,Civic,2017,số sàn,xăng,Hải Phòng,trong nước,5,74400,231.0
+Kia,Carnival,2026,tự động,xăng,Đà Nẵng,trong nước,5,500,651.0
+Kia,Carnival,2017,số sàn,xăng,Cần Thơ,nhập khẩu,7,127300,165.0
+Toyota,Fortuner,2013,số sàn,xăng,Hải Phòng,trong nước,5,105600,134.0
+Mercedes Benz,GLC,2014,tự động,xăng,Đà Nẵng,nhập khẩu,5,151900,438.0
+Kia,Seltos,2026,tự động,xăng,Hà Nội,trong nước,5,500,605.0
+Hyundai,Santafe,2019,tự động,xăng,Hải Phòng,trong nước,5,59500,277.0
+VinFast,Lux A,2014,tự động,xăng,Hải Phòng,trong nước,5,156700,80.0
+Mazda,CX5,2013,tự động,hybrid,Hồ Chí Minh,trong nước,5,287700,80.0
+Mazda,CX5,2021,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,57800,339.0
+Honda,Civic,2022,tự động,xăng,Hải Phòng,trong nước,7,21600,525.0
+Toyota,Camry,2013,tự động,xăng,Hồ Chí Minh,trong nước,5,138700,107.0
+Kia,Morning,2020,tự động,hybrid,Hà Nội,trong nước,7,67300,328.0
+VinFast,Lux A,2022,số sàn,xăng,Hà Nội,nhập khẩu,7,43200,369.0
+Kia,Seltos,2014,tự động,xăng,Hà Nội,trong nước,5,229600,80.0
+Honda,City,2017,số sàn,xăng,Hải Phòng,trong nước,7,118800,228.0
+Hyundai,Accent,2016,tự động,xăng,Cần Thơ,nhập khẩu,7,122600,157.0
+Hyundai,Santafe,2021,tự động,xăng,Hà Nội,nhập khẩu,5,74300,352.0
+Ford,EcoSport,2013,tự động,xăng,Đà Nẵng,nhập khẩu,7,169100,80.0
+Honda,City,2021,số sàn,xăng,Hà Nội,trong nước,5,23300,402.0
+Toyota,Camry,2018,tự động,xăng,Cần Thơ,trong nước,7,119800,287.0
+Ford,Everest,2017,tự động,xăng,Hải Phòng,trong nước,5,133700,125.0
+Ford,EcoSport,2019,số sàn,dầu,Hà Nội,trong nước,5,96300,188.0
+Toyota,Fortuner,2015,số sàn,xăng,Hải Phòng,trong nước,5,165400,128.0
+Toyota,Vios,2016,tự động,xăng,Hải Phòng,trong nước,7,164600,170.0
+Hyundai,Accent,2024,số sàn,xăng,Đà Nẵng,trong nước,7,36400,482.0
+Kia,Carnival,2018,số sàn,xăng,Hải Phòng,trong nước,5,47600,217.0
+Hyundai,Creta,2025,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,11000,665.0
+Toyota,Vios,2013,tự động,xăng,Hồ Chí Minh,trong nước,5,110400,135.0
+Toyota,Camry,2023,tự động,dầu,Cần Thơ,trong nước,7,31900,567.0
+Mazda,CX8,2016,tự động,xăng,Hải Phòng,nhập khẩu,7,135800,169.0
+VinFast,VF6,2024,tự động,điện,Hà Nội,trong nước,5,12400,500.0
+Toyota,Fortuner,2025,số sàn,xăng,Hải Phòng,trong nước,7,20000,631.0
+Toyota,Fortuner,2023,tự động,xăng,Hà Nội,trong nước,5,19900,556.0
+Hyundai,Santafe,2023,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,27300,460.0
+Toyota,Vios,2013,số sàn,xăng,Cần Thơ,trong nước,5,95900,144.0
+Toyota,Fortuner,2012,tự động,xăng,Hà Nội,trong nước,7,142500,89.0
+Kia,Seltos,2013,tự động,hybrid,Hải Phòng,trong nước,5,175500,80.0
+VinFast,VF6,2025,số sàn,xăng,Hải Phòng,nhập khẩu,7,4400,592.0
+Mazda,CX5,2017,tự động,xăng,Cần Thơ,nhập khẩu,5,162100,160.0
+Honda,CR-V,2016,tự động,xăng,Đà Nẵng,trong nước,5,83400,212.0
+Honda,City,2013,tự động,dầu,Hải Phòng,nhập khẩu,7,273200,80.0
+Honda,Civic,2025,tự động,xăng,Đà Nẵng,nhập khẩu,7,8700,712.0
+Hyundai,Accent,2022,số sàn,xăng,Hải Phòng,trong nước,5,62700,330.0
+Hyundai,Accent,2013,tự động,xăng,Hồ Chí Minh,trong nước,5,188000,80.0
+Honda,CR-V,2025,số sàn,dầu,Hồ Chí Minh,trong nước,5,16600,544.0
+Hyundai,Accent,2020,số sàn,xăng,Hải Phòng,nhập khẩu,5,38600,335.0
+Kia,Morning,2021,số sàn,xăng,Đà Nẵng,trong nước,5,53700,291.0
+Hyundai,Creta,2015,tự động,dầu,Hải Phòng,nhập khẩu,5,191900,80.0
+Honda,Civic,2013,tự động,xăng,Đà Nẵng,trong nước,7,205400,80.0
+Hyundai,Accent,2025,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,17100,604.0
+Hyundai,Santafe,2026,tự động,xăng,Cần Thơ,nhập khẩu,5,5300,689.0
+Honda,CR-V,2021,số sàn,xăng,Cần Thơ,trong nước,5,71800,365.0
+Honda,CR-V,2013,tự động,xăng,Hà Nội,trong nước,5,157200,82.0
+Hyundai,Creta,2016,tự động,xăng,Đà Nẵng,nhập khẩu,5,160000,114.0
+Hyundai,Creta,2020,số sàn,xăng,Hải Phòng,nhập khẩu,5,95100,264.0
+Hyundai,Santafe,2016,số sàn,xăng,Đà Nẵng,trong nước,5,181600,81.0
+Honda,City,2015,tự động,xăng,Cần Thơ,trong nước,5,154100,132.0
+Hyundai,Santafe,2014,tự động,xăng,Hải Phòng,trong nước,5,179200,80.0
+Mercedes Benz,C200,2019,tự động,xăng,Cần Thơ,trong nước,5,112300,716.0
+Mazda,CX8,2022,tự động,xăng,Đà Nẵng,trong nước,5,49900,369.0
+VinFast,Lux A,2025,tự động,xăng,Hải Phòng,trong nước,5,11200,507.0
+Toyota,Vios,2013,tự động,hybrid,Hồ Chí Minh,nhập khẩu,7,154500,124.0
+Ford,Everest,2015,tự động,xăng,Cần Thơ,trong nước,5,139500,87.0
+Ford,Everest,2016,số sàn,xăng,Hà Nội,trong nước,5,169100,80.0
+Honda,CR-V,2025,số sàn,xăng,Hải Phòng,nhập khẩu,5,19400,662.0
+Toyota,Fortuner,2021,tự động,xăng,Đà Nẵng,trong nước,7,52600,434.0
+Mazda,CX5,2012,tự động,dầu,Hà Nội,trong nước,5,186400,80.0
+Toyota,Vios,2024,tự động,xăng,Cần Thơ,trong nước,7,24700,578.0
+Mercedes Benz,GLC,2019,tự động,xăng,Đà Nẵng,trong nước,7,74800,822.0
+Ford,EcoSport,2025,tự động,xăng,Hà Nội,trong nước,7,20300,566.0
+Mercedes Benz,E300,2017,tự động,xăng,Hà Nội,trong nước,5,77100,604.0
+Hyundai,Creta,2012,tự động,xăng,Cần Thơ,trong nước,5,230400,80.0
+Hyundai,Accent,2026,tự động,xăng,Cần Thơ,trong nước,5,4100,547.0
+VinFast,Lux A,2021,tự động,xăng,Đà Nẵng,trong nước,7,71500,328.0
+Hyundai,Creta,2024,tự động,xăng,Hải Phòng,trong nước,5,23400,497.0
+Honda,CR-V,2013,tự động,xăng,Hồ Chí Minh,trong nước,5,122900,117.0
+Ford,EcoSport,2014,tự động,xăng,Hà Nội,trong nước,5,118800,85.0
+Mazda,CX8,2013,tự động,xăng,Cần Thơ,nhập khẩu,7,201100,80.0
+Kia,Morning,2026,tự động,xăng,Hà Nội,trong nước,7,600,620.0
+Mazda,CX8,2012,tự động,xăng,Hà Nội,nhập khẩu,7,177300,80.0
+Toyota,Vios,2026,số sàn,xăng,Đà Nẵng,trong nước,5,1900,700.0
+Honda,CR-V,2015,tự động,xăng,Hồ Chí Minh,trong nước,5,117300,149.0
+Hyundai,Creta,2025,tự động,xăng,Hà Nội,trong nước,5,22800,500.0
+Toyota,Camry,2018,tự động,xăng,Cần Thơ,trong nước,5,81000,293.0
+Toyota,Camry,2024,số sàn,dầu,Cần Thơ,trong nước,7,18300,598.0
+Mazda,CX5,2026,tự động,xăng,Cần Thơ,nhập khẩu,7,1600,822.0
+Kia,Carnival,2015,tự động,xăng,Đà Nẵng,trong nước,7,55400,197.0
+Hyundai,Accent,2025,tự động,dầu,Đà Nẵng,nhập khẩu,5,12800,616.0
+Honda,Civic,2017,tự động,dầu,Đà Nẵng,trong nước,7,85000,299.0
+Kia,Morning,2012,số sàn,xăng,Đà Nẵng,nhập khẩu,5,210800,80.0
+Mazda,CX5,2015,tự động,xăng,Cần Thơ,trong nước,5,142500,113.0
+Mercedes Benz,GLC,2019,số sàn,xăng,Hồ Chí Minh,trong nước,7,60100,725.0
+Kia,Carnival,2015,số sàn,điện,Hồ Chí Minh,trong nước,5,201200,80.0
+VinFast,VF8,2013,số sàn,xăng,Cần Thơ,nhập khẩu,7,215600,80.0
+Honda,Civic,2026,tự động,dầu,Hải Phòng,trong nước,5,3300,740.0
+Toyota,Fortuner,2025,tự động,xăng,Cần Thơ,trong nước,5,20400,621.0
+Toyota,Fortuner,2023,tự động,xăng,Đà Nẵng,trong nước,5,62000,485.0
+Mazda,CX8,2014,số sàn,xăng,Đà Nẵng,trong nước,5,167600,80.0
+Hyundai,Accent,2013,tự động,xăng,Hồ Chí Minh,trong nước,7,134500,81.0
+Toyota,Camry,2022,tự động,xăng,Hà Nội,trong nước,5,52100,500.0
+Kia,Carnival,2018,tự động,xăng,Hồ Chí Minh,trong nước,7,102700,207.0
+VinFast,VF8,2020,tự động,xăng,Đà Nẵng,nhập khẩu,5,85300,298.0
+Honda,City,2016,tự động,xăng,Hà Nội,trong nước,5,169600,141.0
+Mazda,CX8,2017,số sàn,xăng,Hà Nội,nhập khẩu,5,121900,186.0
+Hyundai,Creta,2012,tự động,xăng,Hà Nội,trong nước,5,74200,119.0
+Kia,Seltos,2018,số sàn,xăng,Hồ Chí Minh,trong nước,7,75500,201.0
+Toyota,Vios,2013,tự động,xăng,Hà Nội,trong nước,5,105200,143.0
+Honda,Civic,2025,tự động,xăng,Đà Nẵng,nhập khẩu,5,15000,598.0
+Kia,Morning,2013,số sàn,xăng,Hải Phòng,trong nước,7,145800,80.0
+Hyundai,Santafe,2020,tự động,dầu,Cần Thơ,nhập khẩu,5,85300,275.0
+Ford,EcoSport,2020,tự động,xăng,Hải Phòng,trong nước,5,60500,261.0
+Mazda,CX8,2014,tự động,xăng,Hải Phòng,nhập khẩu,5,113500,122.0
+Mazda,CX8,2018,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,132000,224.0
+Honda,City,2022,số sàn,xăng,Hà Nội,nhập khẩu,5,55600,474.0
+Honda,City,2025,số sàn,xăng,Đà Nẵng,trong nước,5,13200,507.0
+Hyundai,Santafe,2023,tự động,xăng,Hải Phòng,trong nước,7,18200,490.0
+Honda,CR-V,2026,tự động,xăng,Hà Nội,nhập khẩu,5,1600,692.0
+VinFast,VF8,2020,số sàn,xăng,Đà Nẵng,trong nước,5,45900,249.0
+Honda,Civic,2018,số sàn,xăng,Hải Phòng,trong nước,7,93300,275.0
+Kia,Seltos,2026,tự động,xăng,Đà Nẵng,nhập khẩu,5,2600,625.0
+Hyundai,Santafe,2023,tự động,hybrid,Hải Phòng,trong nước,5,55500,443.0
+Hyundai,Creta,2022,tự động,xăng,Cần Thơ,nhập khẩu,7,63600,478.0
+Ford,EcoSport,2021,số sàn,xăng,Hà Nội,nhập khẩu,7,58300,322.0
+Toyota,Camry,2018,tự động,xăng,Đà Nẵng,trong nước,7,72700,335.0
+Toyota,Camry,2023,tự động,hybrid,Hải Phòng,trong nước,5,34300,507.0
+Toyota,Camry,2015,tự động,xăng,Cần Thơ,trong nước,5,148800,141.0
+Toyota,Vios,2019,số sàn,xăng,Hồ Chí Minh,trong nước,5,89800,301.0
+Hyundai,Creta,2014,tự động,dầu,Hà Nội,trong nước,7,134800,86.0
+Toyota,Camry,2013,tự động,xăng,Hải Phòng,trong nước,5,222000,80.0
+VinFast,VF8,2017,tự động,xăng,Đà Nẵng,nhập khẩu,7,96100,201.0
+Toyota,Camry,2023,số sàn,xăng,Cần Thơ,trong nước,5,37700,465.0
+Honda,Civic,2026,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,500,702.0
+Mazda,CX5,2025,số sàn,dầu,Hải Phòng,nhập khẩu,5,16600,581.0
+Toyota,Fortuner,2026,số sàn,xăng,Cần Thơ,trong nước,5,500,682.0
+Honda,City,2012,tự động,xăng,Hải Phòng,trong nước,7,143800,91.0
+Honda,CR-V,2018,số sàn,xăng,Hà Nội,nhập khẩu,5,79800,264.0
+Honda,City,2017,số sàn,xăng,Đà Nẵng,nhập khẩu,5,131100,227.0
+Ford,Ranger,2026,số sàn,xăng,Hải Phòng,trong nước,7,3200,567.0
+Mazda,3,2021,tự động,xăng,Cần Thơ,nhập khẩu,5,79200,359.0
+Honda,CR-V,2016,số sàn,xăng,Cần Thơ,trong nước,5,151800,139.0
+Hyundai,Santafe,2019,tự động,xăng,Hà Nội,trong nước,5,108000,203.0
+Kia,Carnival,2020,số sàn,điện,Cần Thơ,trong nước,7,48800,353.0
+Kia,Morning,2025,tự động,xăng,Hà Nội,trong nước,5,17800,545.0
+Toyota,Vios,2019,tự động,xăng,Đà Nẵng,trong nước,5,72900,313.0
+Hyundai,Santafe,2022,tự động,xăng,Cần Thơ,nhập khẩu,5,44900,411.0
+Kia,Seltos,2016,tự động,xăng,Cần Thơ,trong nước,7,127800,130.0
+VinFast,VF6,2026,số sàn,xăng,Hải Phòng,trong nước,5,4700,517.0
+Hyundai,Creta,2018,số sàn,xăng,Cần Thơ,trong nước,5,163100,138.0
+Toyota,Fortuner,2024,tự động,hybrid,Cần Thơ,trong nước,7,22200,675.0
+Toyota,Vios,2019,tự động,xăng,Cần Thơ,trong nước,5,84700,342.0
+Honda,City,2019,tự động,dầu,Hồ Chí Minh,nhập khẩu,5,65200,314.0
+Ford,EcoSport,2015,tự động,xăng,Hải Phòng,nhập khẩu,5,102100,132.0
+Mazda,3,2025,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,15400,500.0
+Ford,Ranger,2018,tự động,xăng,Hải Phòng,trong nước,7,48900,237.0
+Mazda,CX8,2022,tự động,dầu,Hồ Chí Minh,nhập khẩu,5,57600,385.0
+Kia,Carnival,2023,tự động,xăng,Hà Nội,nhập khẩu,5,22800,469.0
+Mazda,3,2018,số sàn,xăng,Hà Nội,nhập khẩu,5,95600,214.0
+Kia,Seltos,2017,tự động,dầu,Đà Nẵng,nhập khẩu,7,82900,213.0
+Honda,City,2014,số sàn,xăng,Đà Nẵng,trong nước,5,180200,89.0
+Ford,EcoSport,2016,số sàn,xăng,Hà Nội,trong nước,5,152200,90.0
+Honda,Civic,2023,số sàn,dầu,Hà Nội,nhập khẩu,5,46200,457.0
+Toyota,Fortuner,2025,số sàn,xăng,Hà Nội,trong nước,5,15700,535.0
+Kia,Morning,2021,số sàn,điện,Hà Nội,trong nước,5,31700,349.0
+Kia,Seltos,2020,tự động,điện,Hồ Chí Minh,nhập khẩu,5,49900,350.0
+Hyundai,Creta,2022,tự động,xăng,Đà Nẵng,trong nước,7,60300,432.0
+Kia,Morning,2016,số sàn,xăng,Hồ Chí Minh,trong nước,5,96500,142.0
+Hyundai,Accent,2022,số sàn,xăng,Cần Thơ,nhập khẩu,5,43300,418.0
+Toyota,Fortuner,2015,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,153800,141.0
+Kia,Seltos,2012,tự động,dầu,Hà Nội,trong nước,5,289800,80.0
+Toyota,Fortuner,2016,tự động,hybrid,Hà Nội,trong nước,5,94200,241.0
+Toyota,Camry,2020,tự động,xăng,Hà Nội,nhập khẩu,5,85800,360.0
+Mazda,CX8,2014,tự động,xăng,Hải Phòng,trong nước,7,119900,121.0
+Honda,City,2014,tự động,xăng,Cần Thơ,trong nước,5,88900,168.0
+Toyota,Fortuner,2018,tự động,xăng,Hà Nội,nhập khẩu,7,88900,316.0
+Mazda,3,2024,số sàn,xăng,Hải Phòng,trong nước,5,24400,443.0
+Hyundai,Accent,2025,số sàn,xăng,Hà Nội,trong nước,5,16700,490.0
+Honda,Civic,2020,số sàn,xăng,Đà Nẵng,nhập khẩu,7,84700,369.0
+Kia,Seltos,2026,số sàn,xăng,Hồ Chí Minh,trong nước,5,800,519.0
+Honda,City,2019,tự động,dầu,Hồ Chí Minh,trong nước,7,30000,378.0
+Toyota,Fortuner,2026,số sàn,xăng,Hải Phòng,nhập khẩu,5,500,690.0
+Kia,Carnival,2017,tự động,dầu,Hải Phòng,trong nước,5,126700,141.0
+Kia,Morning,2020,tự động,điện,Đà Nẵng,trong nước,5,43400,312.0
+Mazda,CX5,2016,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,96800,167.0
+Toyota,Vios,2019,tự động,hybrid,Hồ Chí Minh,nhập khẩu,5,72700,368.0
+Kia,Morning,2021,tự động,xăng,Hải Phòng,trong nước,7,80100,309.0
+Kia,Seltos,2016,tự động,xăng,Hồ Chí Minh,trong nước,5,113800,140.0
+Toyota,Fortuner,2024,số sàn,xăng,Hồ Chí Minh,trong nước,5,35100,536.0
+Kia,Carnival,2021,tự động,xăng,Hồ Chí Minh,trong nước,5,46800,323.0
+Honda,City,2012,tự động,xăng,Cần Thơ,trong nước,7,221300,80.0
+Ford,Everest,2018,tự động,xăng,Hà Nội,trong nước,5,95700,186.0
+Kia,Seltos,2021,số sàn,xăng,Đà Nẵng,trong nước,7,58100,340.0
+Honda,City,2013,số sàn,xăng,Hà Nội,trong nước,7,204200,80.0
+Ford,Ranger,2025,số sàn,xăng,Hải Phòng,trong nước,5,18300,433.0
+Toyota,Fortuner,2023,tự động,xăng,Hồ Chí Minh,trong nước,5,50000,494.0
+Toyota,Camry,2018,tự động,xăng,Cần Thơ,trong nước,5,95400,276.0
+Honda,City,2015,tự động,xăng,Cần Thơ,trong nước,5,181700,98.0
+Kia,Morning,2023,số sàn,xăng,Đà Nẵng,nhập khẩu,5,51600,425.0
+Hyundai,Creta,2025,tự động,xăng,Cần Thơ,trong nước,5,12800,514.0
+Mazda,3,2014,tự động,xăng,Đà Nẵng,trong nước,5,153400,80.0
+Honda,Civic,2021,số sàn,xăng,Hà Nội,nhập khẩu,7,33900,426.0
+Kia,Carnival,2016,tự động,dầu,Hà Nội,nhập khẩu,7,96400,190.0
+Toyota,Camry,2016,số sàn,xăng,Hồ Chí Minh,trong nước,5,162500,146.0
+Honda,Civic,2018,số sàn,dầu,Đà Nẵng,trong nước,5,71000,276.0
+VinFast,VF8,2016,tự động,dầu,Hồ Chí Minh,trong nước,5,135900,119.0
+Mazda,3,2026,số sàn,hybrid,Hà Nội,trong nước,5,3800,672.0
+Ford,Ranger,2024,số sàn,xăng,Hồ Chí Minh,trong nước,7,37100,412.0
+Hyundai,Santafe,2020,số sàn,xăng,Hà Nội,trong nước,5,80000,274.0
+Kia,Morning,2016,tự động,xăng,Cần Thơ,nhập khẩu,5,47400,213.0
+Toyota,Vios,2018,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,88700,297.0
+Honda,Civic,2023,tự động,dầu,Hồ Chí Minh,nhập khẩu,7,45300,551.0
+Honda,Civic,2015,tự động,xăng,Cần Thơ,trong nước,5,162700,129.0
+Mazda,CX5,2019,tự động,xăng,Hải Phòng,trong nước,7,96400,271.0
+Mazda,3,2021,số sàn,xăng,Hà Nội,trong nước,5,85400,311.0
+VinFast,VF8,2025,tự động,xăng,Cần Thơ,trong nước,5,15800,474.0
+Toyota,Camry,2012,tự động,xăng,Cần Thơ,trong nước,5,63600,172.0
+VinFast,Lux A,2015,tự động,xăng,Cần Thơ,nhập khẩu,5,105800,132.0
+Ford,Everest,2020,tự động,xăng,Đà Nẵng,nhập khẩu,5,79300,272.0
+Toyota,Fortuner,2019,số sàn,xăng,Hà Nội,trong nước,7,66100,314.0
+Toyota,Fortuner,2025,tự động,xăng,Cần Thơ,trong nước,7,18100,654.0
+Honda,City,2026,số sàn,điện,Đà Nẵng,trong nước,5,3800,650.0
+Mazda,CX8,2020,tự động,xăng,Hồ Chí Minh,trong nước,5,116900,276.0
+Mercedes Benz,C200,2026,tự động,dầu,Đà Nẵng,nhập khẩu,5,1000,1494.0
+Toyota,Camry,2014,tự động,xăng,Hồ Chí Minh,trong nước,5,93500,169.0
+Kia,Seltos,2025,tự động,xăng,Hà Nội,nhập khẩu,7,8900,644.0
+Mazda,3,2024,tự động,xăng,Đà Nẵng,trong nước,5,23600,470.0
+Toyota,Fortuner,2022,tự động,xăng,Hải Phòng,trong nước,5,62900,431.0
+Honda,City,2022,tự động,xăng,Cần Thơ,nhập khẩu,7,50700,514.0
+Honda,Civic,2018,số sàn,xăng,Hà Nội,trong nước,7,73900,305.0
+Honda,City,2012,tự động,xăng,Đà Nẵng,trong nước,7,110600,117.0
+Honda,City,2017,số sàn,xăng,Hải Phòng,nhập khẩu,7,105600,252.0
+Mazda,3,2025,tự động,xăng,Đà Nẵng,trong nước,5,18400,538.0
+Mercedes Benz,C200,2024,tự động,xăng,Đà Nẵng,trong nước,5,37200,1237.0
+Mazda,3,2021,tự động,hybrid,Hồ Chí Minh,trong nước,5,86000,332.0
+Mercedes Benz,E300,2012,tự động,xăng,Cần Thơ,trong nước,5,210700,247.0
+Toyota,Camry,2020,tự động,xăng,Cần Thơ,trong nước,5,81300,367.0
+Toyota,Vios,2013,tự động,xăng,Đà Nẵng,nhập khẩu,5,123900,136.0
+Toyota,Vios,2019,số sàn,xăng,Hà Nội,trong nước,7,94100,327.0
+Kia,Carnival,2015,tự động,xăng,Hồ Chí Minh,trong nước,5,199400,80.0
+Honda,Civic,2018,số sàn,xăng,Đà Nẵng,trong nước,7,100800,267.0
+Hyundai,Accent,2017,tự động,xăng,Đà Nẵng,nhập khẩu,5,136300,160.0
+VinFast,VF6,2016,tự động,xăng,Đà Nẵng,nhập khẩu,5,121700,147.0
+Honda,CR-V,2022,tự động,xăng,Hà Nội,nhập khẩu,5,61300,482.0
+Honda,CR-V,2021,tự động,xăng,Đà Nẵng,trong nước,7,47400,461.0
+Kia,Carnival,2023,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,28500,480.0
+Mazda,CX8,2026,số sàn,xăng,Hải Phòng,trong nước,7,1500,597.0
+Toyota,Camry,2024,tự động,xăng,Hà Nội,nhập khẩu,5,12100,615.0
+Toyota,Vios,2021,tự động,xăng,Hải Phòng,nhập khẩu,5,80400,457.0
+Kia,Morning,2022,tự động,xăng,Cần Thơ,nhập khẩu,5,88000,352.0
+VinFast,Lux A,2026,số sàn,xăng,Hà Nội,trong nước,7,1400,592.0
+Ford,EcoSport,2018,số sàn,xăng,Hải Phòng,trong nước,7,75400,203.0
+Hyundai,Creta,2019,tự động,xăng,Hà Nội,trong nước,5,98900,244.0
+Toyota,Fortuner,2018,tự động,xăng,Đà Nẵng,trong nước,5,154100,215.0
+Honda,CR-V,2013,số sàn,xăng,Hải Phòng,nhập khẩu,5,161500,80.0
+Mazda,CX8,2018,số sàn,xăng,Hồ Chí Minh,trong nước,5,142900,170.0
+VinFast,VF6,2025,số sàn,dầu,Hải Phòng,trong nước,5,13900,436.0
+Hyundai,Accent,2016,tự động,điện,Hải Phòng,trong nước,5,130200,138.0
+Honda,City,2020,số sàn,xăng,Hà Nội,trong nước,5,40400,324.0
+Kia,Seltos,2022,tự động,xăng,Hải Phòng,nhập khẩu,5,56500,386.0
+Mazda,CX8,2013,tự động,xăng,Hải Phòng,trong nước,7,113900,124.0
+Mercedes Benz,GLC,2018,số sàn,xăng,Hà Nội,trong nước,5,61900,506.0
+Mazda,3,2014,tự động,xăng,Hải Phòng,trong nước,7,74100,165.0
+VinFast,Lux A,2020,số sàn,điện,Đà Nẵng,trong nước,7,87500,323.0
+Toyota,Camry,2015,tự động,hybrid,Cần Thơ,trong nước,5,234100,80.0
+Kia,Carnival,2012,số sàn,xăng,Đà Nẵng,trong nước,5,126500,80.0
+Mazda,3,2016,số sàn,dầu,Cần Thơ,trong nước,5,113400,133.0
+Mazda,CX8,2017,tự động,hybrid,Hồ Chí Minh,trong nước,5,97200,215.0
+Toyota,Vios,2026,số sàn,xăng,Hà Nội,nhập khẩu,7,5500,757.0
+Ford,Everest,2021,tự động,điện,Hải Phòng,trong nước,7,83200,336.0
+Toyota,Vios,2020,tự động,xăng,Hà Nội,nhập khẩu,5,72200,414.0
+Hyundai,Santafe,2012,tự động,xăng,Hồ Chí Minh,trong nước,5,146500,80.0
+Hyundai,Creta,2013,tự động,xăng,Đà Nẵng,nhập khẩu,5,63300,150.0
+VinFast,VF8,2016,số sàn,hybrid,Đà Nẵng,nhập khẩu,7,145700,120.0
+Mazda,CX5,2016,tự động,xăng,Hà Nội,trong nước,5,127200,152.0
+VinFast,VF6,2024,tự động,xăng,Hà Nội,nhập khẩu,5,10300,502.0
+Hyundai,Santafe,2021,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,38300,395.0
+Mercedes Benz,GLC,2013,số sàn,điện,Đà Nẵng,trong nước,7,107700,396.0
+Kia,Carnival,2018,số sàn,dầu,Hà Nội,trong nước,5,84200,197.0
+Ford,Everest,2024,tự động,dầu,Hà Nội,nhập khẩu,5,20000,480.0
+Ford,EcoSport,2017,tự động,xăng,Hải Phòng,trong nước,5,140400,116.0
+VinFast,VF6,2017,số sàn,xăng,Cần Thơ,nhập khẩu,7,77700,204.0
+Toyota,Vios,2014,tự động,xăng,Đà Nẵng,trong nước,5,120500,155.0
+Toyota,Vios,2019,số sàn,xăng,Cần Thơ,nhập khẩu,5,57700,323.0
+Hyundai,Accent,2018,tự động,xăng,Cần Thơ,trong nước,7,118100,209.0
+Honda,Civic,2015,số sàn,dầu,Đà Nẵng,trong nước,5,115400,166.0
+Honda,Civic,2014,số sàn,xăng,Đà Nẵng,trong nước,5,148100,117.0
+Toyota,Vios,2022,số sàn,xăng,Hà Nội,nhập khẩu,7,59100,495.0
+Kia,Morning,2015,số sàn,xăng,Đà Nẵng,nhập khẩu,5,135400,104.0
+VinFast,VF8,2026,tự động,xăng,Hồ Chí Minh,trong nước,5,5800,518.0
+Toyota,Vios,2012,số sàn,xăng,Hà Nội,trong nước,5,215900,80.0
+Hyundai,Santafe,2020,số sàn,xăng,Cần Thơ,trong nước,5,79600,275.0
+Mazda,3,2021,số sàn,dầu,Hà Nội,trong nước,5,63900,334.0
+VinFast,Lux A,2020,tự động,xăng,Cần Thơ,trong nước,7,65500,302.0
+Mazda,CX5,2019,tự động,điện,Đà Nẵng,trong nước,5,93700,291.0
+Kia,Seltos,2026,số sàn,xăng,Đà Nẵng,trong nước,5,2200,607.0
+Hyundai,Creta,2017,số sàn,điện,Hồ Chí Minh,nhập khẩu,5,168300,150.0
+Mercedes Benz,GLC,2022,tự động,xăng,Cần Thơ,trong nước,5,56800,987.0
+Mazda,CX8,2026,tự động,xăng,Đà Nẵng,trong nước,5,1200,620.0
+Mercedes Benz,E300,2017,số sàn,xăng,Hải Phòng,trong nước,5,86200,595.0
+Mazda,CX5,2018,tự động,xăng,Hải Phòng,trong nước,5,90300,228.0
+Toyota,Vios,2021,tự động,xăng,Hà Nội,nhập khẩu,5,73500,468.0
+Kia,Carnival,2019,tự động,xăng,Hải Phòng,trong nước,5,31900,303.0
+Honda,City,2018,tự động,xăng,Hà Nội,trong nước,5,93100,248.0
+Hyundai,Accent,2022,tự động,xăng,Đà Nẵng,trong nước,5,41600,374.0
+Hyundai,Accent,2012,tự động,xăng,Hải Phòng,trong nước,5,109900,80.0
+Toyota,Vios,2017,tự động,xăng,Hải Phòng,nhập khẩu,5,134300,249.0
+Toyota,Vios,2022,tự động,xăng,Đà Nẵng,trong nước,5,37100,471.0
+Mercedes Benz,GLC,2016,số sàn,xăng,Đà Nẵng,trong nước,5,80600,502.0
+VinFast,VF8,2014,số sàn,xăng,Đà Nẵng,trong nước,7,193200,80.0
+Toyota,Camry,2016,số sàn,xăng,Đà Nẵng,trong nước,5,51800,244.0
+VinFast,VF8,2021,tự động,xăng,Hải Phòng,trong nước,5,83100,288.0
+Honda,Civic,2013,tự động,xăng,Hà Nội,trong nước,7,216500,80.0
+Honda,Civic,2020,tự động,điện,Hải Phòng,trong nước,5,26600,475.0
+Kia,Morning,2020,tự động,xăng,Đà Nẵng,trong nước,5,68400,273.0
+Kia,Morning,2026,tự động,xăng,Cần Thơ,trong nước,7,5000,617.0
+VinFast,VF8,2016,số sàn,dầu,Hà Nội,nhập khẩu,5,164900,93.0
+Toyota,Vios,2025,tự động,xăng,Cần Thơ,trong nước,5,13600,684.0
+Kia,Morning,2024,tự động,xăng,Đà Nẵng,trong nước,5,25600,457.0
+Mazda,3,2025,tự động,hybrid,Hồ Chí Minh,trong nước,5,18500,573.0
+Honda,CR-V,2017,tự động,xăng,Cần Thơ,trong nước,7,79700,271.0
+Kia,Seltos,2026,tự động,xăng,Hồ Chí Minh,trong nước,5,6500,520.0
+VinFast,VF8,2025,tự động,xăng,Hồ Chí Minh,trong nước,5,18900,472.0
+Honda,City,2022,tự động,xăng,Cần Thơ,nhập khẩu,5,33300,497.0
+Toyota,Vios,2015,số sàn,xăng,Hải Phòng,trong nước,5,145900,147.0
+Mercedes Benz,C200,2020,tự động,xăng,Hải Phòng,nhập khẩu,5,76600,947.0
+Ford,EcoSport,2014,tự động,xăng,Hà Nội,trong nước,5,97300,107.0
+Honda,CR-V,2024,số sàn,dầu,Đà Nẵng,trong nước,5,31800,538.0
+VinFast,VF8,2024,tự động,xăng,Hải Phòng,nhập khẩu,7,22800,494.0
+Toyota,Fortuner,2019,số sàn,dầu,Hồ Chí Minh,trong nước,5,60600,302.0
+Ford,Everest,2013,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,139100,80.0
+Kia,Seltos,2015,số sàn,điện,Hải Phòng,nhập khẩu,5,91500,164.0
+Toyota,Vios,2019,số sàn,xăng,Hải Phòng,trong nước,7,96700,302.0
+Honda,City,2021,tự động,dầu,Cần Thơ,trong nước,7,75700,383.0
+Hyundai,Creta,2013,tự động,xăng,Đà Nẵng,trong nước,7,192600,80.0
+Honda,City,2015,tự động,hybrid,Cần Thơ,nhập khẩu,7,137200,185.0
+Kia,Seltos,2014,tự động,dầu,Hải Phòng,nhập khẩu,7,156000,80.0
+Hyundai,Accent,2023,tự động,xăng,Đà Nẵng,trong nước,7,33200,492.0
+Toyota,Camry,2021,tự động,xăng,Hải Phòng,trong nước,5,77600,416.0
+Hyundai,Creta,2022,tự động,xăng,Hồ Chí Minh,trong nước,5,41100,410.0
+Toyota,Fortuner,2016,tự động,hybrid,Hồ Chí Minh,trong nước,7,146800,172.0
+Toyota,Fortuner,2019,số sàn,xăng,Đà Nẵng,nhập khẩu,5,73500,344.0
+Toyota,Camry,2013,số sàn,xăng,Hà Nội,trong nước,5,115400,124.0
+Honda,City,2026,tự động,điện,Cần Thơ,nhập khẩu,7,3000,902.0
+Toyota,Vios,2012,số sàn,hybrid,Cần Thơ,trong nước,5,260300,80.0
+Ford,Ranger,2020,tự động,xăng,Hải Phòng,trong nước,5,91000,242.0
+Honda,City,2023,tự động,xăng,Đà Nẵng,trong nước,7,31900,517.0
+Honda,CR-V,2014,tự động,xăng,Đà Nẵng,nhập khẩu,5,79500,186.0
+Honda,City,2015,tự động,xăng,Hà Nội,nhập khẩu,7,68800,223.0
+Ford,Everest,2014,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,160500,80.0
+Honda,Civic,2021,tự động,xăng,Hà Nội,nhập khẩu,5,66500,413.0
+Mazda,CX8,2012,tự động,xăng,Đà Nẵng,trong nước,5,66100,128.0
+Honda,City,2025,số sàn,xăng,Đà Nẵng,trong nước,7,14900,630.0
+Mercedes Benz,E300,2023,số sàn,xăng,Cần Thơ,trong nước,5,52400,862.0
+Honda,City,2022,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,53500,514.0
+Toyota,Vios,2024,số sàn,điện,Hồ Chí Minh,trong nước,5,29100,582.0
+Hyundai,Accent,2024,số sàn,dầu,Cần Thơ,nhập khẩu,5,16100,450.0
+Kia,Morning,2012,tự động,hybrid,Hải Phòng,nhập khẩu,7,210400,80.0
+Honda,Civic,2016,tự động,xăng,Hà Nội,trong nước,7,93100,242.0
+Toyota,Fortuner,2016,tự động,xăng,Hải Phòng,trong nước,7,100300,212.0
+Mazda,3,2018,số sàn,xăng,Hà Nội,trong nước,5,138700,159.0
+Mazda,3,2020,số sàn,dầu,Hồ Chí Minh,trong nước,5,50900,293.0
+Mercedes Benz,C200,2024,tự động,xăng,Đà Nẵng,trong nước,5,24700,1130.0
+VinFast,VF8,2019,tự động,dầu,Hà Nội,trong nước,5,84100,220.0
+Hyundai,Accent,2017,tự động,xăng,Đà Nẵng,nhập khẩu,5,125600,178.0
+Toyota,Fortuner,2015,tự động,xăng,Hà Nội,trong nước,7,202500,110.0
+Kia,Morning,2024,tự động,xăng,Hải Phòng,trong nước,5,28500,420.0
+Kia,Morning,2024,tự động,xăng,Cần Thơ,trong nước,5,32700,392.0
+Toyota,Vios,2018,tự động,xăng,Đà Nẵng,trong nước,5,97600,257.0
+Honda,CR-V,2023,số sàn,xăng,Cần Thơ,nhập khẩu,5,21300,552.0
+Honda,City,2021,tự động,xăng,Hà Nội,trong nước,5,85000,378.0
+Hyundai,Creta,2023,số sàn,xăng,Hồ Chí Minh,trong nước,5,50500,413.0
+Hyundai,Santafe,2015,tự động,xăng,Hà Nội,trong nước,5,184500,80.0
+Toyota,Camry,2020,tự động,xăng,Hải Phòng,trong nước,5,52100,366.0
+Mazda,3,2019,tự động,xăng,Hồ Chí Minh,trong nước,5,88800,274.0
+Mercedes Benz,C200,2024,số sàn,xăng,Hải Phòng,trong nước,5,38700,996.0
+Toyota,Fortuner,2014,tự động,xăng,Cần Thơ,trong nước,5,252400,80.0
+Honda,Civic,2013,tự động,xăng,Hà Nội,trong nước,7,162300,81.0
+Honda,CR-V,2021,tự động,xăng,Hà Nội,trong nước,5,70700,400.0
+Mazda,3,2020,số sàn,xăng,Hồ Chí Minh,trong nước,5,50400,295.0
+VinFast,Lux A,2020,tự động,xăng,Hải Phòng,nhập khẩu,5,67600,273.0
+Mazda,3,2026,số sàn,xăng,Hải Phòng,trong nước,5,3300,527.0
+Ford,EcoSport,2022,tự động,xăng,Hồ Chí Minh,trong nước,5,68700,328.0
+Hyundai,Creta,2016,tự động,xăng,Hà Nội,trong nước,5,105200,159.0
+Mazda,3,2016,tự động,xăng,Hải Phòng,nhập khẩu,5,119600,171.0
+Honda,Civic,2014,tự động,dầu,Hà Nội,trong nước,7,182700,92.0
+VinFast,Lux A,2013,tự động,xăng,Hải Phòng,trong nước,5,152400,80.0
+Hyundai,Creta,2025,tự động,dầu,Hải Phòng,trong nước,5,19100,503.0
+Toyota,Fortuner,2025,tự động,xăng,Hồ Chí Minh,trong nước,7,9300,625.0
+Toyota,Fortuner,2020,tự động,xăng,Đà Nẵng,trong nước,5,93900,363.0
+Toyota,Camry,2018,tự động,điện,Hải Phòng,trong nước,5,66200,327.0
+Ford,Ranger,2020,tự động,xăng,Cần Thơ,nhập khẩu,5,72600,263.0
+Mazda,CX5,2018,số sàn,xăng,Cần Thơ,trong nước,7,55500,262.0
+VinFast,VF6,2026,tự động,dầu,Hồ Chí Minh,nhập khẩu,5,3900,642.0
+Ford,Ranger,2014,tự động,dầu,Hải Phòng,trong nước,7,110700,89.0
+Honda,CR-V,2013,tự động,xăng,Hà Nội,trong nước,7,258300,80.0
+Toyota,Vios,2019,tự động,xăng,Hà Nội,trong nước,5,57900,363.0
+Toyota,Fortuner,2020,tự động,xăng,Cần Thơ,trong nước,5,123200,322.0
+Kia,Carnival,2017,số sàn,xăng,Cần Thơ,trong nước,5,135000,132.0
+Toyota,Fortuner,2018,số sàn,xăng,Hải Phòng,trong nước,5,114900,229.0
+Hyundai,Accent,2022,số sàn,xăng,Hà Nội,nhập khẩu,5,37400,407.0
+Toyota,Vios,2017,tự động,xăng,Hải Phòng,nhập khẩu,7,139900,226.0
+Kia,Carnival,2017,tự động,xăng,Đà Nẵng,trong nước,5,181000,90.0
+Mazda,CX5,2013,tự động,xăng,Cần Thơ,trong nước,7,210100,80.0
+Hyundai,Accent,2014,số sàn,xăng,Cần Thơ,trong nước,7,167300,80.0
+Honda,City,2026,tự động,xăng,Hải Phòng,nhập khẩu,5,2400,701.0
+Mazda,CX8,2025,số sàn,xăng,Hà Nội,trong nước,5,20400,497.0
+Toyota,Vios,2016,tự động,dầu,Đà Nẵng,trong nước,5,128100,196.0
+VinFast,VF6,2016,số sàn,xăng,Đà Nẵng,trong nước,5,113100,132.0
+Ford,Ranger,2019,tự động,xăng,Hà Nội,trong nước,7,108700,205.0
+Kia,Seltos,2025,số sàn,điện,Đà Nẵng,nhập khẩu,5,14300,595.0
+Mazda,CX5,2018,tự động,xăng,Hải Phòng,trong nước,7,127100,229.0
+VinFast,VF8,2015,tự động,xăng,Hà Nội,trong nước,7,229300,80.0
+Toyota,Fortuner,2019,số sàn,dầu,Hà Nội,trong nước,5,112900,283.0
+Kia,Morning,2019,số sàn,xăng,Hà Nội,trong nước,7,70300,244.0
+Kia,Morning,2015,tự động,dầu,Hồ Chí Minh,trong nước,7,126900,119.0
+Honda,City,2017,tự động,hybrid,Hải Phòng,trong nước,5,147400,206.0
+VinFast,Lux A,2023,tự động,xăng,Hải Phòng,trong nước,5,27800,391.0
+Toyota,Vios,2021,tự động,xăng,Hải Phòng,trong nước,5,102500,344.0
+Hyundai,Creta,2012,tự động,xăng,Hải Phòng,trong nước,7,161000,80.0
+Honda,CR-V,2019,tự động,xăng,Đà Nẵng,nhập khẩu,7,90000,368.0
+Hyundai,Accent,2015,số sàn,xăng,Hải Phòng,trong nước,5,153500,86.0
+Honda,CR-V,2024,tự động,xăng,Hải Phòng,trong nước,5,50700,518.0
+Toyota,Fortuner,2023,tự động,xăng,Hà Nội,nhập khẩu,5,35200,539.0
+Hyundai,Accent,2014,tự động,xăng,Đà Nẵng,trong nước,5,120600,105.0
+Mazda,CX5,2024,số sàn,dầu,Hà Nội,trong nước,5,26100,457.0
+Toyota,Fortuner,2023,tự động,dầu,Hà Nội,nhập khẩu,5,47700,580.0
+Ford,EcoSport,2022,tự động,hybrid,Hà Nội,trong nước,7,76000,354.0
+Ford,EcoSport,2017,tự động,hybrid,Hà Nội,trong nước,5,74100,202.0
+Hyundai,Santafe,2015,tự động,xăng,Hải Phòng,trong nước,5,119300,131.0
+Kia,Carnival,2016,số sàn,dầu,Hồ Chí Minh,trong nước,5,114100,125.0
+Mazda,CX5,2018,số sàn,hybrid,Đà Nẵng,trong nước,7,84000,272.0
+VinFast,VF8,2022,tự động,xăng,Hồ Chí Minh,trong nước,7,75900,330.0
+VinFast,VF8,2022,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,64800,383.0
+Kia,Morning,2025,tự động,xăng,Đà Nẵng,trong nước,7,18400,497.0
+Honda,City,2016,số sàn,dầu,Đà Nẵng,nhập khẩu,5,100100,195.0
+Toyota,Fortuner,2024,tự động,xăng,Hà Nội,nhập khẩu,5,15800,582.0
+Hyundai,Creta,2018,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,95800,236.0
+Mazda,CX8,2024,tự động,xăng,Đà Nẵng,trong nước,5,21500,493.0
+Ford,Everest,2015,tự động,hybrid,Hồ Chí Minh,trong nước,5,146000,80.0
+VinFast,VF8,2019,tự động,xăng,Cần Thơ,trong nước,7,113500,220.0
+Hyundai,Creta,2016,tự động,xăng,Cần Thơ,trong nước,7,36900,224.0
+Honda,City,2021,số sàn,xăng,Đà Nẵng,trong nước,5,79400,373.0
+Kia,Carnival,2023,số sàn,dầu,Đà Nẵng,nhập khẩu,7,63200,411.0
+Kia,Seltos,2024,số sàn,xăng,Cần Thơ,trong nước,5,15700,416.0
+Kia,Morning,2016,số sàn,xăng,Đà Nẵng,nhập khẩu,7,139600,132.0
+VinFast,VF6,2013,số sàn,xăng,Cần Thơ,trong nước,5,97300,84.0
+Hyundai,Accent,2025,tự động,xăng,Hồ Chí Minh,trong nước,5,12700,554.0
+Hyundai,Santafe,2023,số sàn,xăng,Đà Nẵng,trong nước,5,39700,342.0
+Hyundai,Creta,2018,số sàn,hybrid,Hồ Chí Minh,nhập khẩu,5,156800,196.0
+Ford,EcoSport,2026,số sàn,xăng,Cần Thơ,trong nước,7,500,499.0
+Honda,Civic,2018,số sàn,xăng,Đà Nẵng,nhập khẩu,7,102200,277.0
+VinFast,VF8,2022,tự động,xăng,Đà Nẵng,nhập khẩu,5,65100,399.0
+Mazda,3,2018,số sàn,xăng,Hà Nội,nhập khẩu,7,8600,344.0
+Toyota,Vios,2023,số sàn,xăng,Hải Phòng,trong nước,5,35700,543.0
+Mazda,CX5,2025,số sàn,xăng,Đà Nẵng,trong nước,5,12900,543.0
+Honda,City,2021,số sàn,xăng,Đà Nẵng,nhập khẩu,5,78800,351.0
+Hyundai,Creta,2026,tự động,xăng,Hà Nội,trong nước,5,2500,590.0
+VinFast,Lux A,2023,tự động,xăng,Hải Phòng,trong nước,5,30000,440.0
+Toyota,Fortuner,2017,tự động,xăng,Hải Phòng,nhập khẩu,7,78500,337.0
+Mazda,CX8,2021,tự động,xăng,Cần Thơ,trong nước,5,71500,387.0
+Hyundai,Accent,2023,tự động,xăng,Hải Phòng,nhập khẩu,7,39000,509.0
+Kia,Seltos,2018,tự động,xăng,Hà Nội,trong nước,5,83900,188.0
+Ford,Everest,2023,số sàn,xăng,Hồ Chí Minh,trong nước,7,49800,360.0
+Hyundai,Accent,2025,tự động,xăng,Hà Nội,nhập khẩu,5,16600,566.0
+Ford,EcoSport,2021,tự động,xăng,Cần Thơ,trong nước,5,49200,286.0
+Honda,Civic,2025,số sàn,xăng,Hồ Chí Minh,trong nước,5,12500,598.0
+Kia,Morning,2013,tự động,dầu,Đà Nẵng,trong nước,5,50400,140.0
+Kia,Morning,2023,tự động,xăng,Hà Nội,trong nước,7,46300,434.0
+Hyundai,Creta,2017,tự động,xăng,Cần Thơ,trong nước,5,134900,157.0
+Toyota,Camry,2020,số sàn,xăng,Hồ Chí Minh,trong nước,7,85900,359.0
+Honda,Civic,2018,số sàn,xăng,Hải Phòng,trong nước,5,184000,160.0
+Honda,Civic,2019,tự động,xăng,Hồ Chí Minh,trong nước,5,77400,315.0
+Mercedes Benz,E300,2014,tự động,xăng,Hải Phòng,trong nước,7,80500,500.0
+Hyundai,Creta,2022,số sàn,dầu,Cần Thơ,nhập khẩu,5,79600,336.0
+Ford,Ranger,2020,số sàn,xăng,Hà Nội,trong nước,5,111400,210.0
+Honda,City,2026,tự động,xăng,Đà Nẵng,trong nước,5,2700,662.0
+Mazda,3,2023,tự động,xăng,Đà Nẵng,trong nước,5,36300,417.0
+Hyundai,Santafe,2013,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,135100,80.0
+Honda,Civic,2020,số sàn,xăng,Hà Nội,nhập khẩu,5,90100,346.0
+Mazda,3,2022,số sàn,xăng,Hà Nội,trong nước,5,46700,370.0
+Hyundai,Accent,2014,tự động,xăng,Hà Nội,nhập khẩu,5,185700,80.0
+Toyota,Vios,2019,số sàn,xăng,Hà Nội,nhập khẩu,7,112800,326.0
+Honda,Civic,2017,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,180600,157.0
+Toyota,Camry,2025,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,12100,706.0
+Mazda,3,2016,tự động,xăng,Cần Thơ,trong nước,7,155400,149.0
+Hyundai,Creta,2024,số sàn,xăng,Hà Nội,trong nước,7,37200,531.0
+Toyota,Vios,2025,tự động,xăng,Đà Nẵng,trong nước,7,17800,689.0
+Honda,City,2016,số sàn,xăng,Hải Phòng,trong nước,5,188300,113.0
+VinFast,Lux A,2012,tự động,dầu,Cần Thơ,trong nước,5,196400,80.0
+VinFast,VF6,2023,tự động,dầu,Cần Thơ,trong nước,5,42400,413.0
+Honda,CR-V,2013,số sàn,xăng,Hải Phòng,nhập khẩu,7,268200,80.0
+VinFast,VF6,2017,số sàn,xăng,Đà Nẵng,trong nước,7,82600,185.0
+Honda,CR-V,2026,tự động,xăng,Cần Thơ,trong nước,5,3800,728.0
+Kia,Carnival,2019,tự động,dầu,Hải Phòng,nhập khẩu,7,69600,312.0
+Hyundai,Accent,2017,số sàn,xăng,Đà Nẵng,nhập khẩu,5,133800,159.0
+Mazda,3,2019,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,109800,216.0
+Hyundai,Santafe,2018,tự động,xăng,Cần Thơ,trong nước,7,128600,213.0
+Toyota,Camry,2013,tự động,điện,Đà Nẵng,trong nước,5,234800,80.0
+Toyota,Vios,2016,số sàn,xăng,Cần Thơ,trong nước,5,90900,211.0
+Honda,City,2019,số sàn,xăng,Đà Nẵng,nhập khẩu,5,53500,311.0
+Kia,Morning,2017,số sàn,xăng,Hồ Chí Minh,trong nước,7,119600,156.0
+Kia,Seltos,2013,tự động,xăng,Hồ Chí Minh,trong nước,5,174200,80.0
+Kia,Carnival,2025,tự động,xăng,Hà Nội,trong nước,7,15400,548.0
+Kia,Carnival,2017,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,200900,93.0
+Toyota,Vios,2025,tự động,xăng,Cần Thơ,trong nước,7,13500,622.0
+Toyota,Fortuner,2015,số sàn,xăng,Hồ Chí Minh,trong nước,5,81500,189.0
+VinFast,Lux A,2022,số sàn,xăng,Hà Nội,trong nước,5,39900,356.0
+Honda,Civic,2019,số sàn,xăng,Đà Nẵng,nhập khẩu,5,98200,322.0
+Hyundai,Creta,2023,tự động,xăng,Cần Thơ,trong nước,5,42300,408.0
+Mazda,3,2017,tự động,xăng,Đà Nẵng,trong nước,5,153700,160.0
+Hyundai,Santafe,2014,tự động,dầu,Hải Phòng,nhập khẩu,7,188500,80.0
+Toyota,Fortuner,2013,tự động,xăng,Đà Nẵng,trong nước,5,208500,80.0
+Kia,Seltos,2024,tự động,xăng,Hải Phòng,trong nước,7,35700,478.0
+Toyota,Camry,2018,tự động,xăng,Hà Nội,nhập khẩu,5,125900,259.0
+Kia,Morning,2013,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,147100,80.0
+Mazda,CX8,2016,số sàn,xăng,Cần Thơ,trong nước,5,185500,86.0
+Mazda,CX8,2026,số sàn,xăng,Cần Thơ,nhập khẩu,5,2900,564.0
+Kia,Morning,2024,tự động,xăng,Cần Thơ,trong nước,7,21200,475.0
+Honda,Civic,2019,số sàn,xăng,Hồ Chí Minh,trong nước,7,100800,286.0
+Toyota,Vios,2025,tự động,điện,Cần Thơ,nhập khẩu,7,19700,802.0
+Mercedes Benz,E300,2021,tự động,dầu,Hải Phòng,trong nước,5,91500,859.0
+Hyundai,Accent,2012,tự động,hybrid,Đà Nẵng,trong nước,5,194900,80.0
+Kia,Morning,2017,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,143500,143.0
+Hyundai,Creta,2024,tự động,xăng,Hải Phòng,trong nước,5,10900,473.0
+VinFast,VF6,2019,số sàn,dầu,Hà Nội,trong nước,5,80300,197.0
+Hyundai,Creta,2022,số sàn,dầu,Hải Phòng,nhập khẩu,5,53500,389.0
+Toyota,Fortuner,2023,tự động,xăng,Hà Nội,trong nước,5,28500,556.0
+Hyundai,Creta,2020,số sàn,xăng,Hồ Chí Minh,trong nước,5,75300,246.0
+Toyota,Camry,2021,tự động,điện,Hồ Chí Minh,trong nước,5,56000,517.0
+VinFast,VF8,2014,tự động,xăng,Hồ Chí Minh,trong nước,7,89600,123.0
+Kia,Seltos,2015,tự động,xăng,Hà Nội,nhập khẩu,5,157200,83.0
+Ford,Everest,2022,tự động,xăng,Hồ Chí Minh,trong nước,7,39300,330.0
+Hyundai,Accent,2020,tự động,xăng,Đà Nẵng,trong nước,5,69200,276.0
+Honda,Civic,2024,số sàn,xăng,Hồ Chí Minh,trong nước,7,34600,534.0
+Hyundai,Accent,2012,tự động,xăng,Hà Nội,trong nước,5,134800,80.0
+Kia,Morning,2020,tự động,xăng,Cần Thơ,nhập khẩu,5,108800,269.0
+Kia,Morning,2026,tự động,xăng,Đà Nẵng,trong nước,5,4200,631.0
+Honda,Civic,2014,tự động,xăng,Cần Thơ,nhập khẩu,7,109400,179.0
+Hyundai,Accent,2018,số sàn,xăng,Hà Nội,trong nước,7,52100,254.0
+Ford,Ranger,2026,tự động,xăng,Đà Nẵng,trong nước,7,4600,576.0
+Kia,Carnival,2015,số sàn,xăng,Đà Nẵng,nhập khẩu,7,109000,131.0
+Honda,CR-V,2018,tự động,dầu,Hải Phòng,nhập khẩu,5,56200,302.0
+Ford,Ranger,2016,tự động,xăng,Cần Thơ,trong nước,5,71500,155.0
+VinFast,Lux A,2016,tự động,xăng,Hồ Chí Minh,trong nước,7,102100,144.0
+VinFast,VF8,2026,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,3100,658.0
+Toyota,Vios,2020,tự động,xăng,Hồ Chí Minh,trong nước,7,79300,398.0
+Honda,CR-V,2014,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,85600,205.0
+VinFast,Lux A,2013,tự động,xăng,Hà Nội,trong nước,5,137800,80.0
+Honda,Civic,2015,số sàn,xăng,Đà Nẵng,nhập khẩu,7,107000,164.0
+Toyota,Vios,2021,tự động,xăng,Cần Thơ,nhập khẩu,5,48400,453.0
+Kia,Seltos,2026,tự động,xăng,Cần Thơ,trong nước,5,2600,519.0
+VinFast,VF8,2016,tự động,xăng,Hà Nội,trong nước,7,134900,113.0
+Hyundai,Accent,2019,tự động,hybrid,Hà Nội,trong nước,7,148200,240.0
+Honda,City,2024,số sàn,xăng,Hồ Chí Minh,trong nước,5,34000,501.0
+Hyundai,Santafe,2019,tự động,xăng,Cần Thơ,nhập khẩu,7,100200,272.0
+Toyota,Fortuner,2024,tự động,xăng,Hồ Chí Minh,trong nước,5,36800,559.0
+Hyundai,Creta,2023,số sàn,xăng,Đà Nẵng,trong nước,5,55100,402.0
+VinFast,VF8,2017,tự động,xăng,Hồ Chí Minh,trong nước,5,49700,197.0
+Toyota,Camry,2018,số sàn,xăng,Cần Thơ,nhập khẩu,5,75300,299.0
+Honda,City,2020,số sàn,xăng,Cần Thơ,trong nước,5,70700,327.0
+Toyota,Vios,2013,tự động,dầu,Hồ Chí Minh,trong nước,5,175000,80.0
+Honda,City,2018,tự động,xăng,Cần Thơ,trong nước,7,108300,271.0
+Toyota,Camry,2025,số sàn,hybrid,Hải Phòng,trong nước,5,8200,645.0
+VinFast,Lux A,2017,số sàn,xăng,Cần Thơ,trong nước,5,119900,145.0
+Mazda,CX5,2013,số sàn,xăng,Hồ Chí Minh,trong nước,5,181100,80.0
+Mazda,3,2022,tự động,hybrid,Hà Nội,trong nước,5,36100,449.0
+Hyundai,Santafe,2015,tự động,dầu,Hà Nội,trong nước,7,82100,170.0
+VinFast,Lux A,2019,số sàn,xăng,Hải Phòng,trong nước,5,103800,209.0
+Honda,Civic,2012,tự động,xăng,Hồ Chí Minh,trong nước,5,145500,80.0
+Honda,City,2014,số sàn,xăng,Đà Nẵng,trong nước,7,188900,80.0
+Toyota,Vios,2016,tự động,dầu,Hồ Chí Minh,trong nước,5,162300,186.0
+Honda,City,2025,số sàn,xăng,Cần Thơ,trong nước,5,17400,609.0
+Toyota,Camry,2016,tự động,xăng,Hải Phòng,trong nước,5,65800,269.0
+Toyota,Camry,2018,số sàn,xăng,Đà Nẵng,nhập khẩu,5,70200,311.0
+Hyundai,Accent,2024,tự động,xăng,Cần Thơ,nhập khẩu,5,10100,556.0
+Toyota,Fortuner,2014,tự động,dầu,Hồ Chí Minh,trong nước,5,125200,137.0
+Toyota,Fortuner,2018,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,69800,298.0
+Ford,Everest,2026,số sàn,xăng,Cần Thơ,trong nước,5,500,486.0
+Toyota,Camry,2013,số sàn,xăng,Đà Nẵng,trong nước,7,195200,80.0
+Toyota,Camry,2016,số sàn,xăng,Hồ Chí Minh,trong nước,5,111400,175.0
+Mercedes Benz,C200,2014,tự động,xăng,Đà Nẵng,nhập khẩu,5,86600,530.0
+Kia,Morning,2023,tự động,xăng,Đà Nẵng,trong nước,7,61000,430.0
+Kia,Seltos,2020,tự động,xăng,Hồ Chí Minh,trong nước,5,51100,269.0
+Hyundai,Accent,2022,số sàn,xăng,Cần Thơ,nhập khẩu,7,17400,459.0
+Toyota,Camry,2013,số sàn,xăng,Hồ Chí Minh,trong nước,5,116300,129.0
+VinFast,VF6,2026,số sàn,xăng,Đà Nẵng,nhập khẩu,5,500,610.0
+Mazda,CX8,2023,số sàn,dầu,Hà Nội,nhập khẩu,7,48800,474.0
+Mazda,CX5,2021,số sàn,dầu,Hà Nội,trong nước,7,42000,382.0
+Toyota,Fortuner,2026,tự động,xăng,Đà Nẵng,nhập khẩu,7,5500,811.0
+Toyota,Camry,2014,tự động,hybrid,Hồ Chí Minh,trong nước,7,222900,80.0
+Hyundai,Creta,2021,tự động,xăng,Hà Nội,nhập khẩu,5,45100,396.0
+Hyundai,Accent,2025,tự động,xăng,Hồ Chí Minh,trong nước,5,15400,527.0
+Hyundai,Santafe,2023,số sàn,xăng,Hồ Chí Minh,trong nước,5,59500,374.0
+Hyundai,Santafe,2013,số sàn,xăng,Hải Phòng,trong nước,7,144200,80.0
+Ford,EcoSport,2019,tự động,xăng,Cần Thơ,nhập khẩu,5,80000,255.0
+Mazda,CX8,2020,số sàn,xăng,Hải Phòng,trong nước,5,69500,276.0
+Honda,City,2016,số sàn,xăng,Hải Phòng,trong nước,5,94200,205.0
+Honda,CR-V,2019,tự động,xăng,Hồ Chí Minh,trong nước,7,64400,339.0
+Honda,City,2018,tự động,xăng,Hà Nội,trong nước,5,132100,234.0
+Hyundai,Accent,2022,số sàn,dầu,Hải Phòng,trong nước,7,69200,364.0
+VinFast,VF8,2013,số sàn,xăng,Cần Thơ,nhập khẩu,5,109300,82.0
+Mazda,CX8,2012,số sàn,xăng,Hải Phòng,trong nước,5,281600,80.0
+Toyota,Fortuner,2024,tự động,xăng,Hồ Chí Minh,trong nước,5,40100,606.0
+Toyota,Camry,2024,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,25000,525.0
+Toyota,Fortuner,2017,số sàn,xăng,Hải Phòng,trong nước,7,51000,308.0
+Honda,CR-V,2015,tự động,xăng,Hà Nội,trong nước,5,90600,170.0
+Kia,Carnival,2014,tự động,xăng,Cần Thơ,trong nước,5,140900,88.0
+Hyundai,Accent,2019,tự động,dầu,Cần Thơ,trong nước,5,80700,245.0
+Kia,Morning,2017,tự động,dầu,Hải Phòng,trong nước,5,172300,106.0
+Mazda,CX8,2022,tự động,dầu,Hải Phòng,trong nước,5,30300,435.0
+Toyota,Fortuner,2025,số sàn,xăng,Cần Thơ,trong nước,5,10500,578.0
+Honda,City,2016,số sàn,dầu,Đà Nẵng,trong nước,7,116400,177.0
+Hyundai,Accent,2021,tự động,xăng,Hải Phòng,trong nước,5,79900,305.0
+Mazda,CX8,2015,tự động,xăng,Hải Phòng,trong nước,5,125200,129.0
+Honda,Civic,2022,số sàn,hybrid,Hải Phòng,trong nước,7,44700,514.0
+VinFast,Lux A,2013,tự động,xăng,Hồ Chí Minh,trong nước,7,156400,80.0
+Mazda,CX8,2012,tự động,xăng,Cần Thơ,trong nước,5,142300,80.0
+VinFast,Lux A,2026,số sàn,xăng,Cần Thơ,trong nước,5,3100,539.0
+Honda,Civic,2023,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,51300,537.0
+Ford,Ranger,2026,số sàn,xăng,Cần Thơ,nhập khẩu,7,3900,459.0
+Toyota,Fortuner,2022,tự động,hybrid,Đà Nẵng,trong nước,7,68700,470.0
+Kia,Carnival,2022,tự động,dầu,Hồ Chí Minh,nhập khẩu,7,54700,394.0
+Toyota,Camry,2026,tự động,xăng,Hải Phòng,trong nước,5,3300,695.0
+Honda,Civic,2022,tự động,hybrid,Hải Phòng,trong nước,7,68700,477.0
+Ford,Ranger,2014,tự động,dầu,Hồ Chí Minh,trong nước,5,211100,80.0
+Honda,City,2022,tự động,xăng,Cần Thơ,trong nước,7,35200,519.0
+Ford,Everest,2026,số sàn,xăng,Cần Thơ,trong nước,5,2000,499.0
+Ford,Ranger,2024,tự động,xăng,Cần Thơ,trong nước,5,29800,405.0
+VinFast,Lux A,2016,số sàn,xăng,Cần Thơ,trong nước,5,192800,80.0
+Mazda,3,2022,tự động,dầu,Hồ Chí Minh,trong nước,5,56000,400.0
+VinFast,Lux A,2022,số sàn,xăng,Cần Thơ,trong nước,5,53200,351.0
+Mazda,CX8,2016,tự động,xăng,Cần Thơ,trong nước,7,200300,86.0
+Toyota,Vios,2026,tự động,xăng,Hải Phòng,trong nước,7,2700,781.0
+VinFast,VF8,2021,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,81100,309.0
+VinFast,Lux A,2012,tự động,dầu,Hải Phòng,trong nước,5,136500,80.0
+Toyota,Vios,2018,tự động,xăng,Hồ Chí Minh,trong nước,7,104900,272.0
+VinFast,Lux A,2026,tự động,xăng,Hải Phòng,trong nước,5,3400,584.0
+Hyundai,Creta,2018,tự động,hybrid,Hải Phòng,trong nước,7,78800,247.0
+Kia,Morning,2022,số sàn,xăng,Hà Nội,trong nước,7,42000,375.0
+Honda,City,2014,số sàn,dầu,Hồ Chí Minh,trong nước,5,140800,112.0
+Toyota,Vios,2015,số sàn,hybrid,Hải Phòng,trong nước,5,202400,103.0
+VinFast,VF6,2017,tự động,dầu,Hải Phòng,nhập khẩu,7,53000,244.0
+Hyundai,Santafe,2020,số sàn,xăng,Đà Nẵng,trong nước,7,60800,276.0
+Toyota,Vios,2014,tự động,xăng,Cần Thơ,nhập khẩu,5,193300,93.0
+Honda,Civic,2016,tự động,hybrid,Hà Nội,trong nước,5,34700,297.0
+VinFast,VF8,2018,tự động,xăng,Đà Nẵng,trong nước,5,160000,138.0
+Mazda,CX8,2020,tự động,dầu,Hồ Chí Minh,trong nước,5,81600,275.0
+Honda,City,2026,tự động,hybrid,Hồ Chí Minh,trong nước,5,1700,847.0
+Honda,City,2025,số sàn,xăng,Hà Nội,trong nước,5,10900,580.0
+VinFast,VF8,2021,tự động,xăng,Hà Nội,trong nước,7,81900,276.0
+Mazda,3,2012,số sàn,xăng,Đà Nẵng,trong nước,7,133500,80.0
+Ford,Everest,2022,tự động,xăng,Cần Thơ,trong nước,5,57400,300.0
+Honda,City,2024,tự động,điện,Hà Nội,nhập khẩu,7,19000,759.0
+Kia,Morning,2023,tự động,xăng,Hải Phòng,trong nước,5,30700,393.0
+Honda,Civic,2024,tự động,xăng,Hải Phòng,trong nước,5,12800,641.0
+Kia,Morning,2017,tự động,xăng,Đà Nẵng,trong nước,5,11800,278.0
+Toyota,Vios,2020,số sàn,dầu,Đà Nẵng,trong nước,5,73800,350.0
+Toyota,Camry,2014,số sàn,xăng,Hồ Chí Minh,trong nước,5,257900,80.0
+Honda,Civic,2020,số sàn,xăng,Hải Phòng,trong nước,5,65500,321.0
+Ford,Ranger,2015,số sàn,xăng,Hồ Chí Minh,trong nước,5,117500,103.0
+Honda,City,2022,tự động,dầu,Đà Nẵng,nhập khẩu,5,59900,456.0
+Mazda,CX8,2022,số sàn,xăng,Cần Thơ,trong nước,7,39400,438.0
+Toyota,Fortuner,2024,tự động,xăng,Hồ Chí Minh,trong nước,7,24600,652.0
+Hyundai,Accent,2020,số sàn,dầu,Hồ Chí Minh,nhập khẩu,5,43400,338.0
+Toyota,Vios,2018,tự động,dầu,Hồ Chí Minh,trong nước,7,70000,311.0
+Toyota,Camry,2022,tự động,xăng,Hải Phòng,trong nước,7,67000,437.0
+VinFast,Lux A,2021,số sàn,xăng,Hà Nội,trong nước,5,46200,300.0
+Honda,CR-V,2021,tự động,xăng,Cần Thơ,nhập khẩu,5,64700,448.0
+Toyota,Fortuner,2012,số sàn,xăng,Hải Phòng,trong nước,5,151100,89.0
+Hyundai,Santafe,2020,tự động,điện,Hồ Chí Minh,trong nước,5,56200,332.0
+Toyota,Camry,2021,số sàn,xăng,Hà Nội,trong nước,5,68800,363.0
+Toyota,Camry,2012,số sàn,xăng,Hà Nội,trong nước,5,218500,80.0
+VinFast,VF6,2025,tự động,xăng,Hà Nội,trong nước,5,8600,552.0
+Mazda,CX5,2025,số sàn,xăng,Hồ Chí Minh,trong nước,5,15900,494.0
+VinFast,VF6,2019,số sàn,hybrid,Hà Nội,trong nước,5,109400,219.0
+Kia,Morning,2020,tự động,xăng,Cần Thơ,trong nước,5,69300,296.0
+Toyota,Vios,2024,tự động,xăng,Hải Phòng,trong nước,5,26500,545.0
+Toyota,Camry,2013,số sàn,dầu,Hải Phòng,trong nước,7,158300,88.0
+Toyota,Vios,2026,số sàn,xăng,Hải Phòng,nhập khẩu,5,700,798.0
+Mazda,CX5,2018,tự động,xăng,Đà Nẵng,trong nước,5,62600,253.0
+Honda,Civic,2023,tự động,xăng,Hải Phòng,trong nước,7,30500,616.0
+VinFast,VF8,2021,số sàn,xăng,Cần Thơ,trong nước,5,72900,229.0
+Mazda,CX8,2013,tự động,xăng,Hồ Chí Minh,trong nước,7,116000,112.0
+Hyundai,Accent,2015,tự động,xăng,Hải Phòng,trong nước,5,131700,115.0
+Honda,City,2026,số sàn,dầu,Cần Thơ,trong nước,7,2500,654.0
+Kia,Seltos,2012,tự động,hybrid,Hà Nội,trong nước,5,126800,80.0
+Kia,Carnival,2018,số sàn,xăng,Hà Nội,trong nước,5,103200,197.0
+Kia,Morning,2015,số sàn,xăng,Đà Nẵng,trong nước,7,193800,80.0
+Kia,Seltos,2018,tự động,điện,Cần Thơ,trong nước,5,74200,246.0
+Mazda,CX5,2013,tự động,điện,Hải Phòng,trong nước,5,124300,112.0
+Toyota,Vios,2014,tự động,xăng,Hồ Chí Minh,trong nước,5,141400,137.0
+VinFast,VF8,2018,tự động,dầu,Cần Thơ,trong nước,5,58300,229.0
+Honda,Civic,2025,tự động,xăng,Đà Nẵng,nhập khẩu,7,12100,739.0
+Kia,Carnival,2022,số sàn,xăng,Đà Nẵng,trong nước,5,28400,334.0
+Mercedes Benz,E300,2021,số sàn,xăng,Hồ Chí Minh,trong nước,5,25400,832.0
+Kia,Morning,2024,tự động,xăng,Hồ Chí Minh,trong nước,5,27800,428.0
+Ford,Everest,2025,số sàn,xăng,Đà Nẵng,trong nước,5,16900,431.0
+Toyota,Camry,2012,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,267300,80.0
+Hyundai,Santafe,2025,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,17300,612.0
+Toyota,Vios,2024,số sàn,xăng,Cần Thơ,trong nước,5,32000,548.0
+Ford,Ranger,2012,tự động,xăng,Hải Phòng,trong nước,5,156600,80.0
+Mercedes Benz,E300,2015,tự động,xăng,Đà Nẵng,trong nước,7,100000,489.0
+Toyota,Vios,2024,tự động,dầu,Đà Nẵng,trong nước,5,31100,594.0
+Toyota,Fortuner,2018,số sàn,xăng,Hải Phòng,trong nước,7,91900,315.0
+VinFast,Lux A,2015,tự động,xăng,Cần Thơ,trong nước,7,162400,80.0
+Kia,Seltos,2020,tự động,xăng,Hồ Chí Minh,trong nước,5,81800,249.0
+Mercedes Benz,E300,2022,tự động,xăng,Hà Nội,nhập khẩu,5,34800,1009.0
+Kia,Seltos,2022,tự động,xăng,Hà Nội,trong nước,7,31500,448.0
+Hyundai,Santafe,2023,tự động,xăng,Cần Thơ,nhập khẩu,7,29900,482.0
+Hyundai,Santafe,2026,tự động,hybrid,Hải Phòng,trong nước,5,2700,596.0
+Toyota,Camry,2019,tự động,xăng,Đà Nẵng,trong nước,7,115500,348.0
+Kia,Carnival,2013,tự động,xăng,Hà Nội,nhập khẩu,7,148900,80.0
+Honda,City,2023,tự động,xăng,Đà Nẵng,nhập khẩu,5,58200,537.0
+Toyota,Camry,2018,tự động,hybrid,Cần Thơ,trong nước,7,116400,317.0
+Hyundai,Creta,2015,tự động,xăng,Hà Nội,nhập khẩu,5,126900,127.0
+Honda,City,2015,tự động,dầu,Cần Thơ,nhập khẩu,7,99600,199.0
+Hyundai,Santafe,2020,tự động,xăng,Hà Nội,trong nước,5,29700,330.0
+Toyota,Camry,2017,tự động,xăng,Đà Nẵng,trong nước,5,152500,188.0
+Toyota,Vios,2015,tự động,xăng,Hải Phòng,nhập khẩu,5,194100,108.0
+Hyundai,Accent,2013,tự động,xăng,Hải Phòng,trong nước,5,146400,80.0
+Hyundai,Santafe,2018,số sàn,xăng,Hải Phòng,trong nước,7,154100,150.0
+Toyota,Fortuner,2025,số sàn,dầu,Cần Thơ,trong nước,5,13700,577.0
+Hyundai,Creta,2022,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,48300,410.0
+VinFast,VF8,2016,tự động,dầu,Hà Nội,trong nước,7,170600,90.0
+Honda,Civic,2026,số sàn,xăng,Hồ Chí Minh,trong nước,5,4600,687.0
+Hyundai,Creta,2016,số sàn,xăng,Hà Nội,nhập khẩu,5,105500,151.0
+Ford,EcoSport,2014,tự động,xăng,Hải Phòng,trong nước,7,129000,81.0
+Kia,Morning,2019,số sàn,dầu,Cần Thơ,trong nước,5,37300,253.0
+Toyota,Fortuner,2025,số sàn,xăng,Cần Thơ,nhập khẩu,7,13900,679.0
+Mercedes Benz,GLC,2024,tự động,xăng,Cần Thơ,trong nước,5,26400,1083.0
+Honda,Civic,2019,số sàn,xăng,Hải Phòng,nhập khẩu,5,122200,281.0
+VinFast,VF6,2020,tự động,xăng,Đà Nẵng,trong nước,7,91700,290.0
+Mazda,CX8,2023,tự động,xăng,Hải Phòng,trong nước,5,26900,485.0
+Kia,Seltos,2026,tự động,xăng,Cần Thơ,trong nước,5,3200,579.0
+Ford,Ranger,2012,tự động,điện,Hà Nội,trong nước,5,187700,80.0
+Ford,Everest,2016,tự động,xăng,Hồ Chí Minh,nhập khẩu,7,186300,80.0
+VinFast,VF6,2023,tự động,xăng,Hải Phòng,trong nước,5,47700,335.0
+Honda,City,2012,tự động,xăng,Hồ Chí Minh,trong nước,5,165700,80.0
+Ford,Everest,2019,tự động,xăng,Cần Thơ,trong nước,5,115600,202.0
+Toyota,Fortuner,2014,số sàn,dầu,Hải Phòng,nhập khẩu,7,130100,153.0
+Honda,CR-V,2022,số sàn,xăng,Hà Nội,nhập khẩu,5,36400,447.0
+Hyundai,Creta,2019,tự động,điện,Đà Nẵng,trong nước,5,95200,243.0
+Kia,Seltos,2024,tự động,xăng,Cần Thơ,trong nước,5,34400,456.0
+Toyota,Camry,2016,tự động,hybrid,Hồ Chí Minh,trong nước,5,165800,158.0
+Honda,CR-V,2014,tự động,dầu,Hải Phòng,trong nước,5,146800,120.0
+Honda,City,2022,tự động,xăng,Đà Nẵng,trong nước,5,53800,397.0
+VinFast,VF8,2021,số sàn,xăng,Hải Phòng,trong nước,5,75800,268.0
+Toyota,Vios,2021,số sàn,xăng,Hải Phòng,trong nước,5,60500,380.0
+Ford,EcoSport,2018,tự động,xăng,Hồ Chí Minh,trong nước,7,150500,158.0
+Honda,CR-V,2021,số sàn,xăng,Đà Nẵng,trong nước,5,32600,445.0
+Hyundai,Creta,2020,số sàn,xăng,Hải Phòng,nhập khẩu,5,47800,302.0
+Ford,Ranger,2015,tự động,xăng,Hải Phòng,nhập khẩu,5,123000,107.0
+Toyota,Camry,2014,số sàn,xăng,Đà Nẵng,trong nước,7,197700,81.0
+Hyundai,Accent,2021,tự động,xăng,Hà Nội,trong nước,5,57900,329.0
+Honda,Civic,2013,tự động,điện,Cần Thơ,trong nước,7,93900,172.0
+Kia,Seltos,2017,tự động,xăng,Hồ Chí Minh,trong nước,5,138900,129.0
+VinFast,VF8,2016,số sàn,xăng,Cần Thơ,trong nước,7,80000,171.0
+Honda,City,2015,tự động,xăng,Hà Nội,trong nước,5,192800,92.0
+VinFast,VF6,2026,tự động,xăng,Hải Phòng,trong nước,7,6500,558.0
+Toyota,Fortuner,2013,tự động,xăng,Đà Nẵng,trong nước,5,237200,80.0
+Mazda,3,2012,tự động,xăng,Hải Phòng,nhập khẩu,5,236500,80.0
+Toyota,Vios,2016,tự động,dầu,Đà Nẵng,trong nước,5,164300,156.0
+Honda,CR-V,2019,tự động,xăng,Hải Phòng,nhập khẩu,5,106600,286.0
+Honda,City,2018,tự động,xăng,Hồ Chí Minh,trong nước,5,87900,270.0
+Kia,Seltos,2018,tự động,xăng,Hà Nội,trong nước,7,97000,200.0
+Honda,Civic,2014,tự động,xăng,Đà Nẵng,nhập khẩu,5,146700,130.0
+Hyundai,Creta,2025,tự động,xăng,Hải Phòng,trong nước,7,19600,555.0
+Hyundai,Santafe,2021,tự động,xăng,Hà Nội,nhập khẩu,5,51000,390.0
+Kia,Carnival,2018,tự động,xăng,Hồ Chí Minh,trong nước,5,76400,252.0
+Honda,City,2019,tự động,xăng,Hải Phòng,trong nước,5,123700,259.0
+Toyota,Camry,2022,tự động,xăng,Hà Nội,trong nước,7,34300,467.0
+Honda,City,2014,số sàn,xăng,Cần Thơ,trong nước,7,195700,80.0
+Hyundai,Accent,2017,số sàn,xăng,Hồ Chí Minh,trong nước,5,184500,100.0
+Ford,Everest,2026,tự động,xăng,Cần Thơ,nhập khẩu,5,2700,571.0
+Hyundai,Creta,2021,tự động,xăng,Hồ Chí Minh,trong nước,5,88200,281.0
+Hyundai,Creta,2014,tự động,xăng,Cần Thơ,trong nước,5,139800,83.0
+Toyota,Camry,2024,tự động,xăng,Hải Phòng,nhập khẩu,7,39600,691.0
+Mazda,CX5,2015,tự động,xăng,Cần Thơ,trong nước,5,108900,130.0
+Honda,City,2024,tự động,xăng,Hải Phòng,nhập khẩu,5,38500,604.0
+Honda,City,2012,tự động,xăng,Đà Nẵng,trong nước,7,131600,91.0
+Mercedes Benz,C200,2025,tự động,xăng,Đà Nẵng,trong nước,5,10300,1386.0
+Toyota,Fortuner,2022,tự động,xăng,Hải Phòng,trong nước,7,78100,475.0
+Toyota,Fortuner,2026,số sàn,điện,Hồ Chí Minh,trong nước,5,4600,777.0
+Honda,CR-V,2018,số sàn,xăng,Hải Phòng,trong nước,7,57500,320.0
+Hyundai,Creta,2023,tự động,xăng,Hải Phòng,trong nước,7,37000,444.0
+Honda,Civic,2013,tự động,điện,Đà Nẵng,trong nước,5,143300,111.0
+Kia,Morning,2018,số sàn,xăng,Hà Nội,nhập khẩu,7,139100,197.0
+Kia,Carnival,2026,số sàn,xăng,Cần Thơ,trong nước,7,1600,554.0
+Mazda,3,2014,số sàn,xăng,Đà Nẵng,trong nước,7,125900,123.0
+VinFast,Lux A,2014,số sàn,xăng,Hà Nội,trong nước,7,184300,80.0
+Honda,Civic,2015,tự động,xăng,Cần Thơ,trong nước,5,105300,186.0
+Hyundai,Accent,2014,số sàn,xăng,Hồ Chí Minh,trong nước,7,195300,80.0
+Hyundai,Accent,2025,tự động,dầu,Hải Phòng,trong nước,5,17700,480.0
+Toyota,Fortuner,2017,tự động,xăng,Hà Nội,trong nước,5,181100,190.0
+Honda,CR-V,2017,số sàn,xăng,Hà Nội,trong nước,5,188200,132.0
+Hyundai,Creta,2018,tự động,xăng,Đà Nẵng,trong nước,5,75500,235.0
+Mercedes Benz,GLC,2026,tự động,xăng,Cần Thơ,trong nước,7,4800,1519.0
+Kia,Seltos,2012,tự động,xăng,Đà Nẵng,trong nước,5,119400,80.0
+Mazda,3,2026,tự động,xăng,Hải Phòng,trong nước,5,3000,638.0
+Toyota,Vios,2021,số sàn,xăng,Đà Nẵng,trong nước,5,58700,392.0
+Honda,CR-V,2016,số sàn,xăng,Hà Nội,trong nước,7,114100,198.0
+Toyota,Camry,2021,tự động,xăng,Hồ Chí Minh,trong nước,5,36900,445.0
+Hyundai,Creta,2021,số sàn,xăng,Cần Thơ,trong nước,5,89300,273.0
+Mazda,3,2021,số sàn,xăng,Đà Nẵng,trong nước,7,31300,413.0
+Hyundai,Santafe,2021,tự động,xăng,Hà Nội,trong nước,7,52300,360.0
+Hyundai,Creta,2019,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,109700,227.0
+Mazda,CX5,2023,tự động,xăng,Cần Thơ,nhập khẩu,7,47600,510.0
+Honda,City,2016,tự động,xăng,Hồ Chí Minh,trong nước,5,114500,193.0
+Toyota,Camry,2013,tự động,xăng,Đà Nẵng,nhập khẩu,5,207600,80.0
+Mercedes Benz,GLC,2020,tự động,hybrid,Hồ Chí Minh,nhập khẩu,7,71500,1058.0
+Toyota,Vios,2012,số sàn,xăng,Đà Nẵng,trong nước,7,284600,80.0
+Toyota,Vios,2020,tự động,xăng,Hà Nội,trong nước,7,100900,370.0
+Toyota,Vios,2012,tự động,xăng,Cần Thơ,trong nước,5,127000,112.0
+Toyota,Camry,2024,số sàn,xăng,Hồ Chí Minh,trong nước,5,34800,584.0
+VinFast,VF8,2022,tự động,xăng,Hà Nội,trong nước,5,45700,328.0
+Toyota,Vios,2018,số sàn,dầu,Đà Nẵng,nhập khẩu,5,113200,243.0
+Honda,Civic,2020,số sàn,xăng,Hải Phòng,trong nước,5,103800,278.0
+Toyota,Vios,2023,tự động,xăng,Cần Thơ,trong nước,5,28800,562.0
+Ford,EcoSport,2017,số sàn,hybrid,Hải Phòng,nhập khẩu,5,165100,105.0
+Honda,CR-V,2017,số sàn,xăng,Hà Nội,trong nước,7,104000,205.0
+VinFast,VF8,2024,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,36700,443.0
+Mercedes Benz,E300,2012,số sàn,hybrid,Hải Phòng,nhập khẩu,5,195300,300.0
+Kia,Morning,2022,tự động,xăng,Hà Nội,trong nước,5,39800,360.0
+Honda,City,2020,tự động,xăng,Hà Nội,nhập khẩu,5,44300,432.0
+Mazda,CX8,2016,số sàn,xăng,Hải Phòng,trong nước,5,73900,179.0
+Kia,Carnival,2024,tự động,hybrid,Cần Thơ,trong nước,5,29300,448.0
+Kia,Carnival,2012,số sàn,xăng,Đà Nẵng,nhập khẩu,5,106000,80.0
+VinFast,VF8,2012,tự động,xăng,Hồ Chí Minh,trong nước,5,141100,80.0
+Hyundai,Creta,2013,số sàn,xăng,Hồ Chí Minh,trong nước,7,142200,80.0
+Hyundai,Accent,2021,tự động,xăng,Hải Phòng,trong nước,7,50300,369.0
+Honda,Civic,2016,tự động,xăng,Hồ Chí Minh,trong nước,7,104900,211.0
+Toyota,Camry,2019,tự động,dầu,Hồ Chí Minh,trong nước,5,100300,294.0
+Kia,Morning,2026,tự động,xăng,Đà Nẵng,trong nước,7,2900,649.0
+Toyota,Camry,2013,tự động,xăng,Hà Nội,trong nước,5,181500,80.0
+Kia,Carnival,2026,tự động,dầu,Đà Nẵng,trong nước,7,500,648.0
+Toyota,Camry,2016,tự động,xăng,Đà Nẵng,trong nước,5,145400,191.0
+Hyundai,Accent,2018,tự động,xăng,Hồ Chí Minh,trong nước,5,88800,248.0
+Hyundai,Creta,2020,tự động,xăng,Hồ Chí Minh,trong nước,5,78100,301.0
+Toyota,Fortuner,2024,tự động,hybrid,Hồ Chí Minh,trong nước,5,14700,632.0
+Hyundai,Creta,2014,số sàn,xăng,Hà Nội,nhập khẩu,7,150800,87.0
+Kia,Seltos,2018,số sàn,xăng,Hà Nội,trong nước,5,84500,185.0
+Hyundai,Santafe,2023,số sàn,dầu,Cần Thơ,nhập khẩu,5,58100,400.0
+Kia,Morning,2024,tự động,xăng,Hồ Chí Minh,trong nước,5,9800,458.0
+Kia,Carnival,2024,tự động,xăng,Cần Thơ,nhập khẩu,5,19800,479.0
+Toyota,Fortuner,2024,tự động,hybrid,Hà Nội,trong nước,5,42600,644.0
+Ford,Everest,2017,tự động,xăng,Hồ Chí Minh,trong nước,7,135300,145.0
+Honda,City,2018,tự động,xăng,Hải Phòng,trong nước,5,144700,211.0
+Hyundai,Creta,2021,số sàn,xăng,Hà Nội,trong nước,7,45200,345.0
+Toyota,Vios,2019,số sàn,xăng,Hà Nội,trong nước,5,46300,303.0
+Mercedes Benz,GLC,2018,số sàn,xăng,Đà Nẵng,trong nước,5,113400,530.0
+Hyundai,Santafe,2023,tự động,xăng,Hải Phòng,nhập khẩu,5,41400,517.0
+Mazda,CX8,2015,tự động,hybrid,Cần Thơ,nhập khẩu,5,157500,126.0
+Hyundai,Santafe,2013,tự động,dầu,Hà Nội,trong nước,5,240400,80.0
+Toyota,Vios,2019,tự động,dầu,Hà Nội,trong nước,5,109100,303.0
+Honda,CR-V,2015,số sàn,xăng,Hà Nội,nhập khẩu,5,66800,208.0
+Mercedes Benz,C200,2012,tự động,xăng,Hồ Chí Minh,trong nước,5,141700,307.0
+Toyota,Camry,2015,số sàn,điện,Cần Thơ,trong nước,7,35600,264.0
+Toyota,Fortuner,2024,số sàn,dầu,Hải Phòng,nhập khẩu,7,28600,662.0
+Hyundai,Santafe,2025,tự động,xăng,Hải Phòng,nhập khẩu,5,11900,600.0
+Kia,Seltos,2014,tự động,điện,Cần Thơ,trong nước,7,81200,141.0
+VinFast,Lux A,2018,số sàn,xăng,Hồ Chí Minh,trong nước,5,115100,164.0
+VinFast,VF6,2015,tự động,xăng,Hà Nội,trong nước,5,88200,130.0
+Kia,Seltos,2015,tự động,xăng,Đà Nẵng,trong nước,5,180200,80.0
+Honda,Civic,2025,số sàn,xăng,Hải Phòng,nhập khẩu,7,21300,743.0
+Hyundai,Creta,2021,tự động,hybrid,Cần Thơ,trong nước,7,103300,340.0
+VinFast,VF6,2018,số sàn,xăng,Hải Phòng,trong nước,7,76300,190.0
+Toyota,Camry,2016,số sàn,xăng,Hải Phòng,trong nước,5,158000,154.0
+Toyota,Vios,2015,tự động,xăng,Hà Nội,trong nước,7,115800,200.0
+Mazda,CX5,2013,số sàn,xăng,Hồ Chí Minh,trong nước,5,96300,103.0
+Honda,Civic,2020,tự động,xăng,Hồ Chí Minh,trong nước,5,116300,301.0
+Toyota,Fortuner,2019,tự động,xăng,Đà Nẵng,nhập khẩu,5,58600,368.0
+Hyundai,Creta,2019,tự động,xăng,Đà Nẵng,trong nước,5,135500,198.0
+Honda,CR-V,2024,số sàn,dầu,Hải Phòng,trong nước,7,24700,540.0
+Ford,EcoSport,2015,tự động,xăng,Hải Phòng,nhập khẩu,5,167200,80.0
+Honda,Civic,2023,tự động,xăng,Hải Phòng,trong nước,5,34200,517.0
+Kia,Carnival,2014,số sàn,xăng,Đà Nẵng,nhập khẩu,7,107200,124.0
+Hyundai,Accent,2015,số sàn,hybrid,Hồ Chí Minh,trong nước,7,95300,157.0
+Honda,Civic,2021,số sàn,dầu,Đà Nẵng,nhập khẩu,5,56100,402.0
+Mazda,CX5,2015,số sàn,xăng,Đà Nẵng,trong nước,5,146400,99.0
+Honda,CR-V,2014,số sàn,xăng,Đà Nẵng,trong nước,5,217400,80.0
+Honda,City,2025,tự động,xăng,Cần Thơ,trong nước,7,12200,706.0
+Toyota,Vios,2014,tự động,xăng,Hồ Chí Minh,trong nước,5,146600,120.0
+Toyota,Camry,2018,tự động,xăng,Hải Phòng,trong nước,7,91200,323.0
+Honda,CR-V,2025,số sàn,hybrid,Hà Nội,nhập khẩu,5,16000,720.0
+Toyota,Vios,2017,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,73200,279.0
+Toyota,Vios,2016,tự động,dầu,Hà Nội,trong nước,5,69000,229.0
+Toyota,Vios,2020,số sàn,hybrid,Hà Nội,nhập khẩu,5,65400,413.0
+Honda,CR-V,2014,tự động,xăng,Hải Phòng,trong nước,5,144300,114.0
+Honda,Civic,2022,tự động,xăng,Đà Nẵng,nhập khẩu,7,91100,445.0
+Toyota,Camry,2014,tự động,xăng,Đà Nẵng,trong nước,5,221000,80.0
+Toyota,Fortuner,2024,số sàn,hybrid,Hải Phòng,trong nước,5,21400,615.0
+Mercedes Benz,C200,2020,tự động,điện,Đà Nẵng,nhập khẩu,7,43900,1108.0
+Honda,Civic,2013,tự động,xăng,Cần Thơ,trong nước,7,71600,167.0
+Toyota,Vios,2023,tự động,xăng,Đà Nẵng,nhập khẩu,7,50500,571.0
+Hyundai,Creta,2013,số sàn,xăng,Cần Thơ,trong nước,5,223200,80.0
+Hyundai,Accent,2024,tự động,xăng,Đà Nẵng,trong nước,7,42700,471.0
+Honda,Civic,2026,số sàn,điện,Hải Phòng,nhập khẩu,5,500,803.0
+Kia,Morning,2014,tự động,xăng,Cần Thơ,trong nước,5,165900,80.0
+Ford,Ranger,2012,tự động,xăng,Hồ Chí Minh,trong nước,5,147900,80.0
+Mazda,CX8,2021,tự động,dầu,Cần Thơ,nhập khẩu,5,92000,357.0
+Honda,CR-V,2012,tự động,xăng,Cần Thơ,trong nước,5,226000,80.0
+Hyundai,Creta,2014,tự động,xăng,Hồ Chí Minh,trong nước,5,110600,115.0
+Honda,City,2019,số sàn,xăng,Hồ Chí Minh,trong nước,5,90900,288.0
+Toyota,Camry,2017,số sàn,xăng,Hà Nội,nhập khẩu,5,73800,238.0
+Honda,CR-V,2021,số sàn,xăng,Hồ Chí Minh,trong nước,5,65200,387.0
+Kia,Seltos,2023,tự động,xăng,Hồ Chí Minh,trong nước,7,26100,466.0
+Toyota,Vios,2013,tự động,xăng,Hà Nội,nhập khẩu,5,170800,92.0
+Toyota,Vios,2020,tự động,xăng,Đà Nẵng,nhập khẩu,5,103400,361.0
+VinFast,VF8,2023,số sàn,xăng,Hải Phòng,trong nước,5,53500,371.0
+Honda,Civic,2014,tự động,xăng,Hải Phòng,trong nước,7,87900,166.0
+Hyundai,Accent,2015,tự động,xăng,Đà Nẵng,trong nước,7,141000,105.0
+Toyota,Fortuner,2013,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,87500,180.0
+Hyundai,Accent,2017,tự động,xăng,Cần Thơ,trong nước,5,148900,136.0
+Toyota,Fortuner,2021,tự động,xăng,Hà Nội,trong nước,5,70100,436.0
+Toyota,Vios,2019,tự động,xăng,Đà Nẵng,nhập khẩu,5,55100,363.0
+Mazda,CX8,2015,tự động,xăng,Hải Phòng,nhập khẩu,5,95500,178.0
+Hyundai,Santafe,2016,tự động,xăng,Hà Nội,trong nước,5,149300,123.0
+Toyota,Camry,2026,số sàn,dầu,Hà Nội,trong nước,5,4400,631.0
+Mazda,3,2014,tự động,xăng,Hà Nội,trong nước,7,147000,94.0
+Kia,Seltos,2019,tự động,dầu,Hải Phòng,trong nước,5,94400,260.0
+Kia,Carnival,2013,tự động,dầu,Hải Phòng,trong nước,5,124200,80.0
+Honda,CR-V,2024,tự động,xăng,Hồ Chí Minh,trong nước,7,25000,657.0
+Mazda,3,2014,tự động,xăng,Hà Nội,trong nước,5,152100,94.0
+VinFast,VF6,2012,số sàn,dầu,Đà Nẵng,trong nước,5,202000,80.0
+Honda,CR-V,2015,số sàn,xăng,Cần Thơ,trong nước,5,79500,189.0
+Toyota,Fortuner,2016,tự động,xăng,Hà Nội,nhập khẩu,5,98200,233.0
+Mercedes Benz,E300,2017,tự động,dầu,Hải Phòng,nhập khẩu,7,137800,678.0
+Ford,Everest,2021,tự động,xăng,Hà Nội,trong nước,5,10600,336.0
+Ford,Ranger,2016,số sàn,xăng,Hải Phòng,trong nước,5,164200,80.0
+Mazda,CX8,2012,tự động,dầu,Hồ Chí Minh,trong nước,5,243300,80.0
+Toyota,Camry,2017,tự động,xăng,Hải Phòng,trong nước,5,181400,194.0
+Kia,Morning,2025,tự động,xăng,Hồ Chí Minh,trong nước,7,5000,628.0
+VinFast,VF6,2021,tự động,xăng,Hải Phòng,trong nước,7,52100,370.0
+Mercedes Benz,GLC,2020,số sàn,xăng,Cần Thơ,trong nước,5,60900,750.0
+Toyota,Vios,2014,tự động,dầu,Hà Nội,trong nước,5,216100,80.0
+VinFast,Lux A,2022,số sàn,xăng,Cần Thơ,trong nước,5,62000,329.0
+Honda,Civic,2021,số sàn,xăng,Hồ Chí Minh,trong nước,7,83100,349.0
+Kia,Seltos,2012,tự động,xăng,Cần Thơ,nhập khẩu,7,211800,80.0
+Ford,EcoSport,2022,tự động,dầu,Hồ Chí Minh,trong nước,5,26200,368.0
+Honda,City,2025,tự động,xăng,Đà Nẵng,trong nước,5,17700,572.0
+Mercedes Benz,GLC,2022,tự động,xăng,Hà Nội,trong nước,5,14500,1083.0
+Toyota,Camry,2019,tự động,xăng,Cần Thơ,nhập khẩu,5,101900,348.0
+Toyota,Vios,2012,số sàn,xăng,Hồ Chí Minh,trong nước,5,184100,80.0
+Mazda,CX5,2023,số sàn,xăng,Hải Phòng,trong nước,5,38300,406.0
+Kia,Seltos,2022,số sàn,xăng,Hà Nội,nhập khẩu,5,55600,366.0
+Ford,Everest,2016,tự động,xăng,Hà Nội,trong nước,5,152000,94.0
+VinFast,VF6,2016,tự động,xăng,Hải Phòng,nhập khẩu,5,94200,169.0
+Mercedes Benz,GLC,2019,tự động,xăng,Cần Thơ,nhập khẩu,5,98800,762.0
+Mazda,3,2023,số sàn,hybrid,Hà Nội,trong nước,7,57000,474.0
+Mazda,CX5,2014,số sàn,xăng,Đà Nẵng,trong nước,5,166800,80.0
+Hyundai,Accent,2017,số sàn,xăng,Hồ Chí Minh,trong nước,7,122500,164.0
+Kia,Morning,2016,tự động,điện,Hà Nội,trong nước,7,125700,162.0
+Ford,Ranger,2013,tự động,xăng,Cần Thơ,trong nước,7,94400,102.0
+Hyundai,Santafe,2015,tự động,hybrid,Cần Thơ,trong nước,5,197500,80.0
+Ford,EcoSport,2023,tự động,xăng,Hà Nội,trong nước,5,37000,387.0
+Mazda,3,2022,tự động,xăng,Hải Phòng,trong nước,7,51200,411.0
+Kia,Carnival,2024,số sàn,xăng,Đà Nẵng,trong nước,7,26400,483.0
+Mercedes Benz,C200,2024,tự động,xăng,Hà Nội,trong nước,5,25400,1266.0
+Toyota,Camry,2022,số sàn,xăng,Đà Nẵng,trong nước,5,41500,444.0
+Kia,Seltos,2021,tự động,xăng,Hải Phòng,trong nước,7,50300,346.0
+Ford,Ranger,2017,tự động,xăng,Hà Nội,nhập khẩu,5,146200,118.0
+Ford,EcoSport,2026,tự động,xăng,Hải Phòng,nhập khẩu,5,2500,610.0
+Ford,Ranger,2023,tự động,xăng,Hải Phòng,trong nước,7,42200,358.0
+Honda,City,2023,tự động,xăng,Hải Phòng,trong nước,5,23300,576.0
+Mazda,CX5,2021,tự động,xăng,Hải Phòng,trong nước,5,66800,350.0
+Mazda,CX5,2017,tự động,xăng,Đà Nẵng,trong nước,5,189400,107.0
+Mercedes Benz,E300,2023,tự động,dầu,Hải Phòng,nhập khẩu,5,43700,1225.0
+Honda,CR-V,2023,tự động,xăng,Cần Thơ,nhập khẩu,5,36900,511.0
+Kia,Morning,2018,tự động,dầu,Đà Nẵng,trong nước,7,74900,241.0
+Kia,Seltos,2026,số sàn,xăng,Hải Phòng,nhập khẩu,5,2000,599.0
+Toyota,Camry,2012,tự động,điện,Cần Thơ,trong nước,5,159600,89.0
+Ford,Everest,2018,tự động,xăng,Cần Thơ,trong nước,5,142900,149.0
+Mazda,3,2016,số sàn,xăng,Cần Thơ,trong nước,5,167200,105.0
+Mercedes Benz,E300,2015,số sàn,xăng,Đà Nẵng,trong nước,5,157000,375.0
+Ford,Everest,2025,tự động,xăng,Hà Nội,nhập khẩu,5,16600,529.0
+Ford,EcoSport,2024,số sàn,điện,Hà Nội,trong nước,5,29000,389.0
+Toyota,Camry,2026,số sàn,xăng,Hồ Chí Minh,nhập khẩu,7,3300,756.0
+VinFast,VF8,2013,số sàn,điện,Đà Nẵng,nhập khẩu,7,149500,80.0
+VinFast,VF6,2025,tự động,xăng,Cần Thơ,nhập khẩu,7,20700,570.0
+Ford,Ranger,2021,tự động,xăng,Hải Phòng,trong nước,5,56700,311.0
+Hyundai,Accent,2024,số sàn,xăng,Cần Thơ,trong nước,5,21300,455.0
+Honda,CR-V,2019,tự động,xăng,Hà Nội,trong nước,5,39900,368.0
+Hyundai,Santafe,2023,tự động,xăng,Hồ Chí Minh,trong nước,5,35600,466.0
+Toyota,Camry,2017,tự động,xăng,Hà Nội,nhập khẩu,5,52000,314.0
+Mercedes Benz,GLC,2018,tự động,xăng,Hồ Chí Minh,trong nước,5,120900,622.0
+Kia,Carnival,2018,tự động,xăng,Cần Thơ,trong nước,7,74800,233.0
+Honda,Civic,2016,tự động,xăng,Hải Phòng,trong nước,5,86500,214.0
+Ford,Everest,2018,tự động,hybrid,Hồ Chí Minh,trong nước,5,21300,278.0
+Kia,Morning,2015,tự động,dầu,Đà Nẵng,trong nước,7,149100,102.0
+Honda,City,2025,tự động,xăng,Hải Phòng,trong nước,7,13300,644.0
+Ford,Ranger,2022,tự động,điện,Hồ Chí Minh,trong nước,7,62000,375.0
+Honda,CR-V,2019,tự động,xăng,Đà Nẵng,trong nước,5,58400,313.0
+Honda,City,2018,tự động,xăng,Hải Phòng,nhập khẩu,7,132700,273.0
+Toyota,Fortuner,2015,tự động,xăng,Đà Nẵng,trong nước,5,166100,135.0
+Kia,Carnival,2024,tự động,xăng,Đà Nẵng,trong nước,7,39500,512.0
+Toyota,Fortuner,2024,tự động,điện,Đà Nẵng,trong nước,5,21100,641.0
+Toyota,Camry,2017,tự động,xăng,Hà Nội,trong nước,5,147300,207.0
+Hyundai,Accent,2013,số sàn,xăng,Cần Thơ,trong nước,5,119200,80.0
+Mercedes Benz,E300,2024,tự động,xăng,Hồ Chí Minh,nhập khẩu,5,25700,1362.0
+Toyota,Vios,2026,số sàn,xăng,Đà Nẵng,trong nước,7,1400,678.0
+Kia,Morning,2015,tự động,xăng,Hà Nội,nhập khẩu,5,196000,80.0
+Honda,City,2015,số sàn,xăng,Đà Nẵng,nhập khẩu,5,155600,124.0
+VinFast,Lux A,2020,tự động,dầu,Hồ Chí Minh,trong nước,5,120900,242.0
+Toyota,Camry,2021,tự động,xăng,Đà Nẵng,nhập khẩu,7,72000,489.0
+Toyota,Fortuner,2012,tự động,xăng,Đà Nẵng,nhập khẩu,5,184700,80.0
+Mercedes Benz,C200,2022,tự động,xăng,Đà Nẵng,nhập khẩu,5,50800,1061.0
+Hyundai,Accent,2026,tự động,hybrid,Cần Thơ,nhập khẩu,5,1700,654.0
+Toyota,Camry,2014,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,114900,158.0
+Toyota,Camry,2017,tự động,xăng,Hồ Chí Minh,trong nước,7,70900,290.0
+Mazda,CX8,2014,số sàn,xăng,Hải Phòng,trong nước,7,120700,111.0
+Mazda,CX8,2026,tự động,xăng,Hà Nội,nhập khẩu,5,4100,717.0
+Hyundai,Creta,2017,tự động,xăng,Hà Nội,nhập khẩu,5,93500,195.0
+Kia,Seltos,2013,tự động,xăng,Hải Phòng,trong nước,5,269700,80.0
+Toyota,Vios,2021,tự động,xăng,Cần Thơ,nhập khẩu,5,63600,496.0
+Honda,City,2017,số sàn,xăng,Hồ Chí Minh,trong nước,5,101800,211.0
+Toyota,Vios,2015,tự động,xăng,Hà Nội,trong nước,5,193300,103.0
+Mercedes Benz,GLC,2015,tự động,xăng,Hà Nội,trong nước,5,174900,413.0
+Mazda,3,2024,tự động,xăng,Hải Phòng,trong nước,7,24200,508.0
+Kia,Seltos,2013,số sàn,xăng,Hà Nội,trong nước,7,202600,80.0
+Honda,City,2021,tự động,xăng,Hải Phòng,trong nước,5,83300,392.0
+Toyota,Vios,2019,số sàn,xăng,Đà Nẵng,trong nước,5,63800,292.0
+Toyota,Camry,2020,tự động,xăng,Hồ Chí Minh,trong nước,5,73400,362.0
+Toyota,Vios,2015,số sàn,xăng,Hồ Chí Minh,nhập khẩu,5,163900,146.0
+Kia,Seltos,2024,số sàn,xăng,Cần Thơ,trong nước,5,36000,426.0
+Mercedes Benz,C200,2021,tự động,hybrid,Hồ Chí Minh,nhập khẩu,5,47600,946.0
+Toyota,Camry,2020,tự động,dầu,Cần Thơ,nhập khẩu,7,102800,474.0
+Toyota,Fortuner,2012,tự động,xăng,Hà Nội,nhập khẩu,5,202600,80.0
+VinFast,VF8,2021,tự động,hybrid,Hà Nội,trong nước,5,40900,355.0
+Hyundai,Creta,2016,số sàn,xăng,Đà Nẵng,nhập khẩu,5,114800,146.0
+Ford,Everest,2024,tự động,xăng,Cần Thơ,trong nước,5,40100,434.0
+Honda,Civic,2017,số sàn,hybrid,Hồ Chí Minh,nhập khẩu,7,126200,280.0
+Mazda,CX5,2024,tự động,dầu,Đà Nẵng,trong nước,5,13000,544.0
+Honda,Civic,2012,tự động,hybrid,Hà Nội,trong nước,7,108000,125.0
+VinFast,VF6,2012,số sàn,dầu,Hồ Chí Minh,trong nước,7,250600,80.0
+Toyota,Vios,2019,số sàn,điện,Cần Thơ,nhập khẩu,7,83800,408.0
+Honda,CR-V,2025,tự động,xăng,Cần Thơ,trong nước,5,19600,525.0
+Hyundai,Santafe,2023,số sàn,xăng,Đà Nẵng,trong nước,5,23100,393.0
+Ford,Everest,2025,tự động,dầu,Hà Nội,trong nước,5,20800,476.0
+VinFast,VF8,2014,số sàn,xăng,Đà Nẵng,trong nước,5,141100,80.0
+Toyota,Vios,2012,tự động,dầu,Hà Nội,nhập khẩu,5,136100,102.0
+VinFast,Lux A,2023,tự động,xăng,Đà Nẵng,trong nước,5,41500,381.0
+VinFast,VF8,2012,tự động,dầu,Hà Nội,trong nước,5,339800,80.0
+Mazda,3,2016,tự động,xăng,Đà Nẵng,trong nước,5,123400,149.0
+Hyundai,Accent,2021,tự động,xăng,Cần Thơ,nhập khẩu,5,73300,341.0
+Mazda,CX8,2017,số sàn,điện,Hồ Chí Minh,trong nước,5,58500,256.0
+Toyota,Camry,2025,số sàn,xăng,Đà Nẵng,trong nước,7,12300,674.0
+Honda,CR-V,2012,tự động,xăng,Hà Nội,trong nước,5,66500,138.0
+Ford,EcoSport,2017,tự động,hybrid,Hải Phòng,trong nước,7,149200,129.0
+Hyundai,Accent,2014,số sàn,xăng,Hà Nội,trong nước,7,113500,114.0
+Toyota,Fortuner,2020,số sàn,xăng,Hà Nội,trong nước,7,61600,376.0
+Hyundai,Accent,2015,số sàn,xăng,Đà Nẵng,trong nước,5,141900,99.0
+Hyundai,Accent,2012,số sàn,xăng,Đà Nẵng,trong nước,7,189400,80.0
+VinFast,Lux A,2015,số sàn,xăng,Cần Thơ,nhập khẩu,5,224400,80.0
+Hyundai,Creta,2025,tự động,dầu,Hà Nội,trong nước,5,15700,527.0
+Toyota,Camry,2023,số sàn,dầu,Hà Nội,trong nước,5,51000,423.0
+Mercedes Benz,E300,2015,tự động,dầu,Hải Phòng,trong nước,7,101200,486.0
+Honda,City,2023,tự động,xăng,Cần Thơ,trong nước,5,27000,513.0
+Kia,Seltos,2026,số sàn,xăng,Hồ Chí Minh,nhập khẩu,7,700,652.0
+Kia,Carnival,2026,tự động,xăng,Hà Nội,nhập khẩu,5,3300,640.0
+Ford,Everest,2023,tự động,xăng,Hà Nội,nhập khẩu,5,39800,449.0
+Kia,Morning,2023,số sàn,xăng,Hải Phòng,trong nước,5,51000,386.0
+Honda,CR-V,2022,tự động,xăng,Đà Nẵng,trong nước,5,69300,458.0

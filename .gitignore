@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Dữ liệu thô và đã xử lý (không đưa lên GitHub), chỉ giữ data/sample/
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Mô hình đã huấn luyện (tái tạo bằng scripts/train)
+models/*
+!models/.gitkeep
+
+.env
+.DS_Store
